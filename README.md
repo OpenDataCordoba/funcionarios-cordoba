@@ -6,9 +6,12 @@ Detección de cambios en los organigramas de Provincia y Municipalidad de Córdo
 
 Scrape al sitio web, no encontramos nómina en algún formato reutilizable.  
 El scrape comienza desde aquí: http://www.cba.gov.ar/reparticiones/  
+Se obtiene datos de todas las oficinas existentes y los funcionarios a cargo.  
 
-Se obtiene datos de todas las oficinas existentes y los funcionarios a cargo.
-
+Ejecutar para detectar cambios periodicamente:
+```
+./daily.sh
+```
 ## Municipalidad de Córdoba
 
 Pendiente de carga leyendo [el webservice](https://gobiernoabierto.cordoba.gob.ar/api/funciones/)  
