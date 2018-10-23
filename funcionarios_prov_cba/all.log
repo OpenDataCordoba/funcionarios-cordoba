@@ -181,3 +181,39 @@ Subsecretario de Vivienda
 				Dirección de Defensa del Consumidor y Lealtad Comercial	
 			 / 
 Director de Defensa del Consumidor y Lealtad Comercial				
+2018-10-23 16:38:05 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Gobierno **** 
+2018-10-23 16:38:05 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-gobierno/. Cargo: 
+				Seguridad Náutica	
+			 / 
+Seguridad Náutica				
+2018-10-23 16:38:05 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_61457">\r\n\t\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-gobierno/. Cargo: 
+				Secretaría de Seguridad Ciudadana	
+			 / 
+Secretario de Seguridad Ciudadana				
+2018-10-23 16:38:05 [scrapy.core.engine] INFO: Closing spider (finished)
+2018-10-23 16:38:05 [scrapy.extensions.feedexport] INFO: Stored csv feed (301 items) in: post-process/data/funcionarios-2018-10-23.csv
+2018-10-23 16:38:05 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 18169,
+ 'downloader/request_count': 52,
+ 'downloader/request_method_count/GET': 52,
+ 'downloader/response_bytes': 605628,
+ 'downloader/response_count': 52,
+ 'downloader/response_status_count/200': 50,
+ 'downloader/response_status_count/301': 1,
+ 'downloader/response_status_count/403': 1,
+ 'file_count': 206,
+ 'file_status_count/uptodate': 206,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 10, 23, 19, 38, 5, 974721),
+ 'item_scraped_count': 301,
+ 'log_count/INFO': 106,
+ 'memusage/max': 63954944,
+ 'memusage/startup': 53579776,
+ 'request_depth_max': 2,
+ 'response_received_count': 51,
+ 'scheduler/dequeued': 51,
+ 'scheduler/dequeued/memory': 51,
+ 'scheduler/enqueued': 51,
+ 'scheduler/enqueued/memory': 51,
+ 'start_time': datetime.datetime(2018, 10, 23, 19, 35, 37, 237336)}
+2018-10-23 16:38:05 [scrapy.core.engine] INFO: Spider closed (finished)
