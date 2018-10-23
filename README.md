@@ -16,3 +16,9 @@ Ejecutar para detectar cambios periodicamente:
 
 Pendiente de carga leyendo [el webservice](https://gobiernoabierto.cordoba.gob.ar/api/funciones/)  
 
+## Publicacion
+
+Esperamos tener un sitio web con todos los registros. Por el momento la cuenta 
+de twitter [@funcionariosCBA](https://twitter.com/funcionariosCBA) publica manualmente los cambios.  
+
+![](img/twt.png)
