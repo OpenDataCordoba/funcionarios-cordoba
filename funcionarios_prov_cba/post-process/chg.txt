@@ -1,0 +1,133 @@
+***********
+INICIA ARCHIVO data/funcionarios-2018-09-23.csv
+*********** 283 registros
+***********
+INICIA ARCHIVO data/funcionarios-2018-09-24.csv
+*********** 283 registros
+***********
+INICIO COMPARACION 283 registros vs 283 del anterior
+Funcionarios a analizar 279 de 283 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-09-24.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2018-09-25.csv
+*********** 283 registros
+***********
+INICIO COMPARACION 283 registros vs 283 del anterior
+Funcionarios a analizar 279 de 283 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-09-25.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2018-09-26.csv
+*********** 283 registros
+***********
+INICIO COMPARACION 283 registros vs 283 del anterior
+Funcionarios a analizar 279 de 283 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-09-26.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2018-09-27.csv
+*********** 283 registros
+***********
+INICIO COMPARACION 283 registros vs 283 del anterior
+Funcionarios a analizar 279 de 283 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-09-27.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2018-09-29.csv
+*********** 283 registros
+***********
+INICIO COMPARACION 283 registros vs 283 del anterior
+Funcionarios a analizar 279 de 283 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-09-29.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2018-09-30.csv
+*********** 283 registros
+***********
+INICIO COMPARACION 283 registros vs 283 del anterior
+Funcionarios a analizar 279 de 283 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-09-30.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2018-10-01.csv
+*********** 283 registros
+***********
+INICIO COMPARACION 283 registros vs 283 del anterior
+Funcionarios a analizar 279 de 283 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-10-01.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2018-10-02.csv
+*********** 283 registros
+***********
+INICIO COMPARACION 283 registros vs 283 del anterior
+Funcionarios a analizar 279 de 283 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-10-02.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2018-10-03.csv
+*********** 283 registros
+***********
+INICIO COMPARACION 283 registros vs 283 del anterior
+Funcionarios a analizar 279 de 283 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-10-03.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2018-10-05.csv
+*********** 283 registros
+***********
+INICIO COMPARACION 283 registros vs 283 del anterior
+Funcionarios a analizar 279 de 283 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-10-05.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2018-10-07.csv
+*********** 283 registros
+***********
+INICIO COMPARACION 283 registros vs 283 del anterior
+Funcionarios a analizar 279 de 283 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-10-07.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2018-10-08.csv
+*********** 283 registros
+***********
+INICIO COMPARACION 283 registros vs 283 del anterior
+Funcionarios a analizar 279 de 283 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-10-08.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2018-10-22.csv
+*********** 281 registros
+***********
+INICIO COMPARACION 281 registros vs 283 del anterior
+Funcionarios a analizar 277 de 281 (se sacan duplicados)
+NUEVO data/funcionarios-2018-10-22.csv: nombre: JORGE RICARDO TUSCHI cargo: VOCAL DEL DIRECTORIO DE LA AGENCIA CÓRDOBA CULTURA ministerio PRESIDENTE DE LA AGENCIA CÓRDOBA CULTURA
+MUERTO data/funcionarios-2018-10-22.csv: nombre: LILIANA BEATRIZ ARRAYA cargo: VOCAL DEL DIRECTORIO DE LA AGENCIA CÓRDOBA CULTURA ministerio PRESIDENTE DE LA AGENCIA CÓRDOBA CULTURA
+MUERTO data/funcionarios-2018-10-22.csv: nombre: JULIO CÉSAR COMELLO cargo: SECRETARÍA DE COORDINACIÓN DE LA SECRETARÍA GENERAL DE LA GOBERNACIÓN ministerio SECRETARIA GENERAL DE LA GOBERNACIÓN
+MUERTO data/funcionarios-2018-10-22.csv: nombre: JULIA OLGA NÚÑEZ cargo: ESCRIBANÍA SUSTITUTA DE GOBIERNO ministerio FISCAL DE ESTADO
+***********
+FIN ARCHIVO funcionarios-2018-10-22.csv: nuevos: 1 repetidos: 276 cambiaron: 0 muertos: 3
+
+***********
+INICIA ARCHIVO data/funcionarios-2018-10-23.csv
+*********** 281 registros
+***********
+INICIO COMPARACION 281 registros vs 281 del anterior
+Funcionarios a analizar 277 de 281 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-10-23.csv: nuevos: 0 repetidos: 277 cambiaron: 0 muertos: 0
+
