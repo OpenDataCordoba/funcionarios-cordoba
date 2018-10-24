@@ -131,3 +131,12 @@ Funcionarios a analizar 277 de 281 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2018-10-23.csv: nuevos: 0 repetidos: 277 cambiaron: 0 muertos: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2018-10-24.csv
+*********** 281 registros
+***********
+INICIO COMPARACION 281 registros vs 281 del anterior
+Funcionarios a analizar 277 de 281 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-10-24.csv: nuevos: 0 repetidos: 277 cambiaron: 0 muertos: 0
+
