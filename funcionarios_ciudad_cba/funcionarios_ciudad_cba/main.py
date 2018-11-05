@@ -14,9 +14,9 @@ class ResultsHandler(object):
 
         # Configure logging
         logging.basicConfig(
+            filename=path.join(self.base_path, 'all.log'),
             level=logging.INFO,
-            format='%(asctime)s %(levelname)s:%(message)s',
-            handlers=[logging.StreamHandler()]
+            format='%(asctime)s %(levelname)s:%(message)s'
         )
 
         # Run
