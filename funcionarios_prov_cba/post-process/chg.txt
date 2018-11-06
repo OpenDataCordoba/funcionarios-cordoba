@@ -205,3 +205,18 @@ MUERTO data/funcionarios-2018-11-02.csv: nombre: LORENA ZANÓN ARGENTI cargo: DI
 ***********
 FIN ARCHIVO funcionarios-2018-11-02.csv: nuevos: 0 repetidos: 275 cambiaron: 0 muertos: 1
 
+***********
+INICIA ARCHIVO data/funcionarios-2018-11-06.csv
+*********** 280 registros
+***********
+INICIO COMPARACION 280 registros vs 281 del anterior
+Funcionarios a analizar 276 de 280 (se sacan duplicados)
+CAMBIO data/funcionarios-2018-11-06.csv: 
+ nombre: LORENA ZANÓN ARGENTI cargo: SECRETARÍA DE COORDINACIÓN DE LA SECRETARÍA GENERAL DE LA GOBERNACIÓN ministerio SECRETARIA GENERAL DE LA GOBERNACIÓN 
+ nombre: LORENA ZANÓN ARGENTI cargo: DIRECCIÓN GENERAL DE COORDINACIÓN OPERATIVA ministerio SECRETARIA GENERAL DE LA GOBERNACIÓN
+CAMBIO data/funcionarios-2018-11-06.csv: 
+ nombre: SILVANA CASTELLANO cargo: SUBSECRETARÍA DE ADMINISTRACIÓN Y RECURSOS HUMANOS ministerio SECRETARIA GENERAL DE LA GOBERNACIÓN 
+ nombre: SILVANA CASTELLANO cargo: DIRECCIÓN GENERAL DE ADMINISTRACIÓN ministerio SECRETARIA GENERAL DE LA GOBERNACIÓN
+***********
+FIN ARCHIVO funcionarios-2018-11-06.csv: nuevos: 0 repetidos: 275 cambiaron: 2 muertos: 0
+
