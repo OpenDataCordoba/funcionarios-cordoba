@@ -370,8 +370,23 @@ INICIA ARCHIVO data/funcionarios-2018-11-30.csv
 ***********
 INICIO COMPARACION 280 registros vs 280 del anterior
 Funcionarios a analizar 276 de 280 (se sacan duplicados)
-NUEVO data/funcionarios-2018-11-30.csv: nombre: SILVIO CASIMIRO PARISATO cargo: DIRECCIÓN GENERAL DE ASUNTOS JUDICIALES DEL INTERIOR ministerio FISCAL DE ESTADO
-MUERTO data/funcionarios-2018-11-30.csv: nombre: MARIANA BEATRIZ MISETA cargo: DIRECCIÓN GENERAL DE ASUNTOS JUDICIALES DEL INTERIOR ministerio FISCAL DE ESTADO
+
+NUEVO data/funcionarios-2018-11-30.csv: nombre: SILVIO CASIMIRO PARISATO
+ cargo: DIRECCIÓN GENERAL DE ASUNTOS JUDICIALES DEL INTERIOR ministerio FISCAL DE ESTADO
+Dirección General de Asuntos Judiciales del Interior
+Silvio Casimiro Parisato
+Fiscal de Estado
+http://www.cba.gov.ar/reparticion/fiscalia-de-estado/procuracion-del-tesoro/direccion-general-de-asuntos-judiciales-del-interio/
+
+MUERTO data/funcionarios-2018-11-30.csv: 
+ nombre: MARIANA BEATRIZ MISETA
+ cargo: DIRECCIÓN GENERAL DE ASUNTOS JUDICIALES DEL INTERIOR ministerio FISCAL DE ESTADO
+Dirección General de Asuntos Judiciales del Interior
+Mariana Beatriz Miseta
+Fiscal de Estado
+http://www.cba.gov.ar/reparticion/fiscalia-de-estado/procuracion-del-tesoro/direccion-general-de-asuntos-judiciales-del-interio/
+
+
 ***********
 FIN ARCHIVO funcionarios-2018-11-30.csv: nuevos: 1 repetidos: 275 cambiaron: 0 muertos: 1
 
