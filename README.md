@@ -10,7 +10,7 @@ de twitter [@funcionariosCBA](https://twitter.com/funcionariosCBA) publica manua
 
 ## Base de datos
 
-La base de datos **general** se administra en django en [funcgo/](funcgo/README.md).  
+La base de datos **general** se administra en django en [funcgo/](funcgo/README.md) (**func**ionarios-djan**go**).  
 Luego cada institucion (provincia, muni, cuerpos legislativos, etc) tiene un directorio con una metodología de detección de cambios diferente.  
 
 ## Provincia de Córdoba
