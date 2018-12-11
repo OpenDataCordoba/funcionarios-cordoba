@@ -405,3 +405,12 @@ CAMBIO data/funcionarios-2018-12-10.csv:
 ***********
 FIN ARCHIVO funcionarios-2018-12-10.csv: nuevos: 0 repetidos: 277 cambiaron: 1 muertos: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2018-12-11.csv
+*********** 279 registros
+***********
+INICIO COMPARACION 279 registros vs 279 del anterior
+Funcionarios a analizar 277 de 279 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2018-12-11.csv: nuevos: 0 repetidos: 277 cambiaron: 0 muertos: 0
+
