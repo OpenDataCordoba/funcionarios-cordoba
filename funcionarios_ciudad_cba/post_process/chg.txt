@@ -7,6 +7,9 @@ INICIA ARCHIVO data/funcionarios-2019-01-08.csv
 ***********
 INICIO COMPARACION 309 registros vs 309 del anterior
 Funcionarios a analizar 309 de 309 (se sacan duplicados)
+CAMBIO data/funcionarios-2019-01-08.csv: 
+ Nuevo Nombre: ANDRÉS VÁZQUEZ (DNI (AR) 26453653) Cargo: DIRECCIÓN DE SISTEMAS DE INFORMACIÓN E INNOVACIÓN Secretaría SIN DEFINIR 
+ Anterior Nombre: ANDRÉS VÁZQUEZ (DNI (AR) 26453653) Cargo: DIRECCIÓN DE SISTEMAS DE INFORMACIÓN Y PRUEBA Secretaría SIN DEFINIR
 ***********
-FIN ARCHIVO funcionarios-2019-01-08.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+FIN ARCHIVO funcionarios-2019-01-08.csv: nuevos: 0 repetidos: 308 cambiaron: 1 Dejaron el cargo: 0
 
