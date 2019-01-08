@@ -9,8 +9,9 @@ data_folder = 'data'
 
 
 class FuncionarioCiudadCordoba(object):
-    def __init__(self, nombre=None, cargo_generico=None, cargo_ocupado=None, ministerio=None, web_url=None, foto_url=None):
+    def __init__(self, nombre=None, dni=None, cargo_generico=None, cargo_ocupado=None, ministerio=None, web_url=None, foto_url=None):
         self.nombre = nombre 
+        self.dni = dni
         self.cargo_generico = cargo_generico
         self.cargo_ocupado = cargo_ocupado
         self.ministerio = ministerio
@@ -21,6 +22,7 @@ class FuncionarioCiudadCordoba(object):
 
     def clean(self):
         self.nombre = ''
+        self.dni = ''
         self.cargo_generico = ''
         self.cargo_ocupado = ''
         self.ministerio = ''
@@ -28,7 +30,7 @@ class FuncionarioCiudadCordoba(object):
         self.foto_url = ''
 
     def __str__(self):
-        return 'nombre: {} cargo: {} ministerio {}'.format(self.nombre, self.cargo_generico, self.ministerio)
+        return 'Nombre: {} ({}) Cargo: {} Secretaría {}'.format(self.nombre, self.dni, self.cargo_generico, self.ministerio)
 
 
 class DataFile(object):
@@ -49,6 +51,7 @@ class DataFile(object):
             if row['funcionario'].strip().upper() == '':
                 continue
             func = FuncionarioCiudadCordoba(nombre=row['funcionario'].strip().upper(),
+                                                dni=row['DNI'],
                                                 cargo_generico=row['cargo_generico'].strip().upper(),
                                                 cargo_ocupado=row['cargo_ocupado'].strip().upper(),
                                                 ministerio=row['ministerio'].strip().upper(),
@@ -57,7 +60,7 @@ class DataFile(object):
             if func.nombre != '':
                 # hay cargos sin funcionario designado
                 # detectar duplicados
-                duplicados = [funcionario for funcionario in self.funcionarios if funcionario.nombre == func.nombre]
+                duplicados = [funcionario for funcionario in self.funcionarios if funcionario.dni == func.dni]
                 for duplicado in duplicados:
                     func.duplicado = True
                     duplicado.duplicado = True
@@ -101,7 +104,7 @@ class DataFile(object):
             funcionarios = [funcionario for funcionario in data_file.funcionarios]  # if funcionario.procesado == False]
             for funcionario_otro in funcionarios:
 
-                if funcionario_aca.nombre == funcionario_otro.nombre:
+                if funcionario_aca.dni == funcionario_otro.dni:
                     encontrado = True
                     if funcionario_aca.cargo_generico == funcionario_otro.cargo_generico:
                         repetidos.append({'este': funcionario_aca, 'otro': funcionario_otro})
