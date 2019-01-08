@@ -52,12 +52,12 @@ class ResultsHandler(object):
         for result in self.results:
             logging.info('Parsing funcionario id: {}'.format(result['id']))
             rows.append([
-                result['cargo']['categoria']['nombre'],
+                result['cargo']['oficina'],
                 result['cargo']['nombre'],
                 self.process_images(result['funcionario']['foto']),
                 result['funcionario'].get('foto', {}).get('original', ''),
                 result['funcionario']['nombrepublico'],
-                result['cargo']['nombre'],
+                'Sin definir',  #TODO analizar como obtenerlo
                 result['funcionario']['url'],
             ])
         setattr(self, 'parsed_results', rows)

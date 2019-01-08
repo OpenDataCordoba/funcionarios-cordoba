@@ -110,7 +110,7 @@ class DataFile(object):
                             # print('REPETIDO {}: \n {} \n {}'.format(self.filename, funcionario_aca, funcionario_otro))
                     else:
                         cambiaron.append({'este': funcionario_aca, 'otro': funcionario_otro})
-                        print('CAMBIO {}: \n {} \n {}'.format(self.filename, funcionario_aca, funcionario_otro))
+                        print('CAMBIO {}: \n Nuevo {} \n Anterior {}'.format(self.filename, funcionario_aca, funcionario_otro))
                     
                     funcionario_aca.procesado = True
                     funcionario_otro.procesado = True
@@ -124,7 +124,7 @@ class DataFile(object):
         funcionarios_otro = [funcionario for funcionario in data_file.funcionarios if funcionario.procesado == False and funcionario.duplicado == False]
         for funcionario in funcionarios_otro:
             muertos.append({'este': funcionario, 'otro': ''})
-            print('MUERTO {}: {}'.format(self.filename, funcionario))
+            print('Dejó el cargo {}: {}'.format(self.filename, funcionario))
 
         return nuevos, repetidos, cambiaron, muertos
 
@@ -139,7 +139,7 @@ for filename in archivos_ordenados:
         print('***********\nINICIO COMPARACION {} registros vs {} del anterior'.format(len(data_file.funcionarios), len(anterior.funcionarios) ))
         nuevos, repetidos, cambiaron, muertos = data_file.compare(anterior)
         if data_file.debug:
-            print('***********\nFIN ARCHIVO {}: nuevos: {} repetidos: {} cambiaron: {} muertos: {}\n'.format(filename, len(nuevos), len(repetidos), len(cambiaron), len(muertos) ))
+            print('***********\nFIN ARCHIVO {}: nuevos: {} repetidos: {} cambiaron: {} Dejaron el cargo: {}\n'.format(filename, len(nuevos), len(repetidos), len(cambiaron), len(muertos) ))
     data_files.append(data_file)
     anterior = data_file.clone()
 
