@@ -48,15 +48,16 @@ class ResultsHandler(object):
 
     def parse_results(self):
         logging.info('Parsing results')
-        rows = [['cargo_generico', 'cargo_ocupado', 'foto_img', 'foto_url', 'funcionario', 'ministerio', 'web_url']]
+        rows = [['funcionario', 'DNI', 'cargo_generico', 'cargo_ocupado', 'foto_img', 'foto_url', 'secretaría', 'web_url']]
         for result in self.results:
             logging.info('Parsing funcionario id: {}'.format(result['id']))
             rows.append([
+                result['funcionario']['nombrepublico'],
+                result['funcionario']['uniqueid'],
                 result['cargo']['oficina'],
                 result['cargo']['nombre'],
                 self.process_images(result['funcionario']['foto']),
                 result['funcionario'].get('foto', {}).get('original', ''),
-                result['funcionario']['nombrepublico'],
                 'Sin definir',  #TODO analizar como obtenerlo
                 result['funcionario']['url'],
             ])
