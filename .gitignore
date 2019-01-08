@@ -3,5 +3,7 @@ __pycache__
 *.pyo
 .~*
 .vscode/
+.env
+
 
 

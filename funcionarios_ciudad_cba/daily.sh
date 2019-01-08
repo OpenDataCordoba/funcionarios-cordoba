@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 source $FUNCIONARIOS_ENV
+cd $PROJECT_DIR
+cd funcionarios_ciudad_cba
 
 echo "Borrando logs"
 rm all.log

@@ -10,14 +10,17 @@ de twitter [@funcionariosCBA](https://twitter.com/funcionariosCBA) publica manua
 
 ## Base de datos
 
-La base de datos **general** se administra en django en [funcgo/](funcgo/README.md) (**func**ionarios-djan**go**).  
+La base de datos **general** se administrará (sin terminar) en django en [funcgo/](funcgo/README.md) (**func**ionarios-djan**go**).  
 Luego cada institucion (provincia, muni, cuerpos legislativos, etc) tiene un directorio con una metodología de detección de cambios diferente.  
 
-## Provincia de Córdoba
+### Ejecutar
 
-En [funcionarios_prov_cba/](funcionarios_prov_cba/README.md)
-Scrape al sitio web, no encontramos nómina en algún formato reutilizable.  
+Cargar variables de entorno
 
-## Municipalidad de Córdoba
+```
+# cargar variables de entorno
+source .env
+# detectar cambios en cada ámbito
+./funcionarios_prov_cba/daily.sh
 
-Pendiente de carga leyendo [el webservice](https://gobiernoabierto.cordoba.gob.ar/api/funciones/)  
+```

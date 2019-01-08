@@ -1,6 +1,7 @@
 # source daily.sh
-
-source ~/envs/funcionarios-cordoba/bin/activate
+source $FUNCIONARIOS_ENV
+cd $PROJECT_DIR
+cd funcionarios_tribunal_de_cuentas_provincia
 
 echo "DETECTANDO CAMBIOS"
 python3 detect-changes.py > post-process/chg.txt
