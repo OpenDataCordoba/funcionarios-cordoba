@@ -54,7 +54,7 @@ class DataFile(object):
                                                 dni=row['DNI'],
                                                 cargo_generico=row['cargo_generico'].strip().upper(),
                                                 cargo_ocupado=row['cargo_ocupado'].strip().upper(),
-                                                secretaria=row['secretaria'].strip().upper(),
+                                                secretaria=row['secretaría'].strip().upper(),
                                                 web_url=row['web_url'],
                                                 foto_url='' if 'foto_url' not in row.keys() else row['foto_url'])
             if func.nombre != '':
