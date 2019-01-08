@@ -1,5 +1,9 @@
-# source daily.sh
+echo "*******************************************************+"
+echo "Cargando el entorno '$FUNCIONARIOS_ENV'"
 source $FUNCIONARIOS_ENV
+
+echo "*******************************************************+"
+echo "Ingresando al directorio de trabajo '$PROJECT_DIR'"
 cd $PROJECT_DIR
 cd funcionarios_tribunal_de_cuentas_provincia
 
