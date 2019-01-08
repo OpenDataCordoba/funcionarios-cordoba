@@ -19,10 +19,12 @@ echo "DETECTANDO CAMBIOS $DEST"
 cd post_process
 python detect-changes.py > chg.txt
 
-cd ..
-#git add $DEST
-#git commit -am 'update'
-#git push
+HOY=`date +%Y-%m-%d`
+DEST="data/${HOY}.csv"
+
+git add $DEST
+git commit -am 'update datos ciudad de Córdoba'
+git push
 
 CHANGES="post_process/chg.txt"
 tail -30 $CHANGES
