@@ -26,5 +26,5 @@ git add $DEST
 git commit -am 'update datos ciudad de Córdoba'
 git push
 
-CHANGES="post_process/chg.txt"
+CHANGES="chg.txt"
 tail -30 $CHANGES
