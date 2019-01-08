@@ -20,7 +20,9 @@ Cargar variables de entorno
 ```
 # cargar variables de entorno
 source .env
+
 # detectar cambios en cada ámbito
 ./funcionarios_prov_cba/daily.sh
-
+./funcionarios_ciudad_cba/daily.sh
+./funcionarios_tribunal_de_cuentas_provincia
 ```
