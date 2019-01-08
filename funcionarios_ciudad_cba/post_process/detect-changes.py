@@ -9,12 +9,12 @@ data_folder = 'data'
 
 
 class FuncionarioCiudadCordoba(object):
-    def __init__(self, nombre=None, dni=None, cargo_generico=None, cargo_ocupado=None, ministerio=None, web_url=None, foto_url=None):
+    def __init__(self, nombre=None, dni=None, cargo_generico=None, cargo_ocupado=None, secretaria=None, web_url=None, foto_url=None):
         self.nombre = nombre 
         self.dni = dni
         self.cargo_generico = cargo_generico
         self.cargo_ocupado = cargo_ocupado
-        self.ministerio = ministerio
+        self.secretaria = secretaria
         self.web_url = web_url
         self.foto_url = foto_url
         self.duplicado = False
@@ -25,12 +25,12 @@ class FuncionarioCiudadCordoba(object):
         self.dni = ''
         self.cargo_generico = ''
         self.cargo_ocupado = ''
-        self.ministerio = ''
+        self.secretaria = ''
         self.web_url = ''
         self.foto_url = ''
 
     def __str__(self):
-        return 'Nombre: {} ({}) Cargo: {} Secretaría {}'.format(self.nombre, self.dni, self.cargo_generico, self.ministerio)
+        return 'Nombre: {} ({}) Cargo: {} Secretaría {}'.format(self.nombre, self.dni, self.cargo_generico, self.secretaria)
 
 
 class DataFile(object):
@@ -54,7 +54,7 @@ class DataFile(object):
                                                 dni=row['DNI'],
                                                 cargo_generico=row['cargo_generico'].strip().upper(),
                                                 cargo_ocupado=row['cargo_ocupado'].strip().upper(),
-                                                ministerio=row['ministerio'].strip().upper(),
+                                                secretaria=row['secretaria'].strip().upper(),
                                                 web_url=row['web_url'],
                                                 foto_url='' if 'foto_url' not in row.keys() else row['foto_url'])
             if func.nombre != '':
