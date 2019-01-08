@@ -8,7 +8,7 @@ import copy
 data_folder = 'data'
 
 
-class FuncionarioProvinciaCordoba(object):
+class FuncionarioCiudadCordoba(object):
     def __init__(self, nombre=None, cargo_generico=None, cargo_ocupado=None, ministerio=None, web_url=None, foto_url=None):
         self.nombre = nombre 
         self.cargo_generico = cargo_generico
@@ -48,7 +48,7 @@ class DataFile(object):
             # if self.debug: print(row)
             if row['funcionario'].strip().upper() == '':
                 continue
-            func = FuncionarioProvinciaCordoba(nombre=row['funcionario'].strip().upper(),
+            func = FuncionarioCiudadCordoba(nombre=row['funcionario'].strip().upper(),
                                                 cargo_generico=row['cargo_generico'].strip().upper(),
                                                 cargo_ocupado=row['cargo_ocupado'].strip().upper(),
                                                 ministerio=row['ministerio'].strip().upper(),
