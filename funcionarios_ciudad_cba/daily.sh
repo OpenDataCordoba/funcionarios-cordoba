@@ -22,7 +22,7 @@ python detect-changes.py > chg.txt
 HOY=`date +%Y-%m-%d`
 DEST="data/${HOY}.csv"
 
-git add $DEST
+git add .
 git commit -am 'update datos ciudad de Córdoba'
 git push
 
