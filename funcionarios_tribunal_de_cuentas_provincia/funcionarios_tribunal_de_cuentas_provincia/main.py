@@ -10,7 +10,7 @@ class ResultsHandler(object):
     def __init__(self):
         # Define paths
         self.base_path = path.dirname(path.dirname(__file__))
-        self.pp_path = path.join(self.base_path, 'post_process')
+        self.pp_path = path.join(self.base_path, 'post-process')
 
         # Configure logging
         logging.basicConfig(
@@ -30,16 +30,16 @@ class ResultsHandler(object):
 
     def save_to_csv(self):
         logging.info('Savig file')
-        file_name = 'funcionarios-{:%Y-%m-%d}.csv'.format(datetime.now())
+        file_name = '{:%Y-%m-%d}.csv'.format(datetime.now())
         file_path = path.join(self.pp_path, 'data', file_name)
 
+        # Es necesario mantener el orden de las columnas a la hora de guardar el csv, 
+        # quiza el dict no sea la mejor estructura para pasar los datos
         keys = ['funcionario', 'DNI', 'cargo_generico', 'cargo_ocupado', 'foto_img', 'foto_url', 'secretaria', 'web_url']
         funcionarios = getattr(self, 'parsed_results', [])
 
-        print(list(zip(*[funcionarios[key] for key in keys])))
-
-        with open("test.csv", "wb") as outfile:
-            writer = csv.writer(outfile, delimiter = "\t")
+        with open(file_path, "w") as outfile:
+            writer = csv.writer(outfile)
             writer.writerow(keys)
             writer.writerows([list(row) for row in zip(*[funcionarios[key] for key in keys])])
 
