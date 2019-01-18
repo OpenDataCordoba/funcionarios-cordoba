@@ -607,3 +607,15 @@ Funcionarios a analizar 276 de 278 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-01-16.csv: nuevos: 0 repetidos: 276 cambiaron: 0 muertos: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-17.csv
+*********** 278 registros
+***********
+INICIO COMPARACION 278 registros vs 278 del anterior
+Funcionarios a analizar 276 de 278 (se sacan duplicados)
+CAMBIO data/funcionarios-2019-01-17.csv: 
+ nombre: JUAN MARTÍN FARFÁN cargo: MINISTRO DE JUSTICIA Y DERECHOS HUMANOS ministerio MINISTRO DE JUSTICIA Y DERECHOS HUMANOS 
+ nombre: JUAN MARTÍN FARFÁN cargo: SECRETARÍA DE ORGANIZACIÓN Y GESTIÓN PENITENCIARIA ministerio MINISTRO DE JUSTICIA Y DERECHOS HUMANOS
+***********
+FIN ARCHIVO funcionarios-2019-01-17.csv: nuevos: 0 repetidos: 275 cambiaron: 1 muertos: 0
+
