@@ -79,3 +79,12 @@ Funcionarios a analizar 309 de 309 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-01-18.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-19.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-19.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
