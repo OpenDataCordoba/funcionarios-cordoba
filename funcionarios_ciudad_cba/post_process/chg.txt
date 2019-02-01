@@ -160,3 +160,16 @@ Funcionarios a analizar 309 de 309 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-01-31.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-01.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 309 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+CAMBIO data/funcionarios-2019-02-01.csv: 
+ Nuevo Nombre: ALFREDO SAPP (DNI (AR) 16229386) Cargo: ENTE DE SERVICIOS Y OBRAS PÚBLICAS -ESYOP- (PRESIDENTE) Secretaría SIN DEFINIR 
+ Anterior Nombre: ALFREDO SAPP (DNI (AR) 16229386) Cargo: SUBASESORÍA LETRADA Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-02-01.csv: Nombre: ENTE DE SERVICIOS Y OBRAS PÚBLICAS -ESYOP- (DNI (AR) ---) Cargo: ENTE DE SERVICIOS Y OBRAS PÚBLICAS -ESYOP- (PRESIDENTE) Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-02-01.csv: nuevos: 0 repetidos: 307 cambiaron: 1 Dejaron el cargo: 1
+
