@@ -727,3 +727,12 @@ Funcionarios a analizar 276 de 278 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-02-02.csv: nuevos: 0 repetidos: 276 cambiaron: 0 muertos: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-04.csv
+*********** 278 registros
+***********
+INICIO COMPARACION 278 registros vs 278 del anterior
+Funcionarios a analizar 276 de 278 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-04.csv: nuevos: 0 repetidos: 276 cambiaron: 0 muertos: 0
+
