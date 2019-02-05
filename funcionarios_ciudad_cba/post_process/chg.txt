@@ -184,10 +184,11 @@ FIN ARCHIVO funcionarios-2019-02-02.csv: nuevos: 0 repetidos: 308 cambiaron: 0 D
 
 ***********
 INICIA ARCHIVO data/funcionarios-2019-02-04.csv
-*********** 308 registros
+*********** 307 registros
 ***********
-INICIO COMPARACION 308 registros vs 308 del anterior
-Funcionarios a analizar 308 de 308 (se sacan duplicados)
+INICIO COMPARACION 307 registros vs 308 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+Dejó el cargo data/funcionarios-2019-02-04.csv: Nombre: DIEGO ALIAGA (DNI (AR) 29835898) Cargo: DIRECCIÓN DE INFRAESTRUCTURA Secretaría SIN DEFINIR
 ***********
-FIN ARCHIVO funcionarios-2019-02-04.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+FIN ARCHIVO funcionarios-2019-02-04.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 1
 
