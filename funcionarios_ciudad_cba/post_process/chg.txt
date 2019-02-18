@@ -265,3 +265,12 @@ Funcionarios a analizar 308 de 308 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-02-15.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-18.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-18.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
