@@ -287,3 +287,12 @@ NUEVO data/funcionarios-2019-02-20.csv: Nombre: JORGE SPADONI (DNI (AR) 16947347
 ***********
 FIN ARCHIVO funcionarios-2019-02-20.csv: nuevos: 1 repetidos: 307 cambiaron: 1 Dejaron el cargo: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-21.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-21.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
