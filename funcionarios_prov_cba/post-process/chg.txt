@@ -863,3 +863,12 @@ NUEVO data/funcionarios-2019-02-23.csv: nombre: FACUNDO MARTÍN CHACÓN cargo: S
 ***********
 FIN ARCHIVO funcionarios-2019-02-23.csv: nuevos: 1 repetidos: 276 cambiaron: 0 muertos: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-25.csv
+*********** 279 registros
+***********
+INICIO COMPARACION 279 registros vs 279 del anterior
+Funcionarios a analizar 277 de 279 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-25.csv: nuevos: 0 repetidos: 277 cambiaron: 0 muertos: 0
+
