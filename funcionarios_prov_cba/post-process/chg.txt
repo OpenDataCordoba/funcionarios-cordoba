@@ -900,3 +900,12 @@ MUERTO data/funcionarios-2019-02-28.csv: nombre: CINTIA DANIELA HAYIPANTELI carg
 ***********
 FIN ARCHIVO funcionarios-2019-02-28.csv: nuevos: 0 repetidos: 276 cambiaron: 0 muertos: 1
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-01.csv
+*********** 278 registros
+***********
+INICIO COMPARACION 278 registros vs 278 del anterior
+Funcionarios a analizar 276 de 278 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-03-01.csv: nuevos: 0 repetidos: 276 cambiaron: 0 muertos: 0
+
