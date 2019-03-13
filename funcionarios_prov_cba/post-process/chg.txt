@@ -909,3 +909,13 @@ Funcionarios a analizar 276 de 278 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-03-01.csv: nuevos: 0 repetidos: 276 cambiaron: 0 muertos: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-13.csv
+*********** 279 registros
+***********
+INICIO COMPARACION 279 registros vs 278 del anterior
+Funcionarios a analizar 277 de 279 (se sacan duplicados)
+NUEVO data/funcionarios-2019-03-13.csv: nombre: AGUSTÍN SANTIAGO CALLERI cargo: VOCAL DE DIRECTORIO ministerio PRESIDENTE DE LA AGENCIA CÓRDOBA DEPORTES
+***********
+FIN ARCHIVO funcionarios-2019-03-13.csv: nuevos: 1 repetidos: 276 cambiaron: 0 muertos: 0
+
