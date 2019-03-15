@@ -919,3 +919,17 @@ NUEVO data/funcionarios-2019-03-13.csv: nombre: AGUSTÍN SANTIAGO CALLERI cargo:
 ***********
 FIN ARCHIVO funcionarios-2019-03-13.csv: nuevos: 1 repetidos: 276 cambiaron: 0 muertos: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-15.csv
+*********** 279 registros
+***********
+INICIO COMPARACION 279 registros vs 279 del anterior
+Funcionarios a analizar 277 de 279 (se sacan duplicados)
+CAMBIO data/funcionarios-2019-03-15.csv: 
+ nombre: JUAN E. GELOS cargo: DIRECCIÓN DE ADMINISTRACIÓN DEL SERVICIO PENITENCIARIO ministerio MINISTRO DE JUSTICIA Y DERECHOS HUMANOS 
+ nombre: JUAN E. GELOS cargo: DIRECCIÓN DE TRABAJO, PRODUCCIÓN Y COMERCIALIZACIÓN PENITENCIARIA DEL SERVICIO PENITENCIARIO DE CÓRDOBA ministerio MINISTRO DE JUSTICIA Y DERECHOS HUMANOS
+NUEVO data/funcionarios-2019-03-15.csv: nombre: ESTELA MARÍA FELICIOTTI cargo: ESCRIBANÍA SUSTITUTA DE GOBIERNO ministerio FISCAL DE ESTADO
+MUERTO data/funcionarios-2019-03-15.csv: nombre: MARÍA INÉS CABANILLAS cargo: DIRECCIÓN DE ADMINISTRACIÓN DEL SERVICIO PENITENCIARIO ministerio MINISTRO DE JUSTICIA Y DERECHOS HUMANOS
+***********
+FIN ARCHIVO funcionarios-2019-03-15.csv: nuevos: 1 repetidos: 275 cambiaron: 1 muertos: 1
+
