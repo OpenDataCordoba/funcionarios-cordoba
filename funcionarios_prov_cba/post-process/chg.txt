@@ -933,3 +933,13 @@ MUERTO data/funcionarios-2019-03-15.csv: nombre: MARÍA INÉS CABANILLAS cargo: 
 ***********
 FIN ARCHIVO funcionarios-2019-03-15.csv: nuevos: 1 repetidos: 275 cambiaron: 1 muertos: 1
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-18.csv
+*********** 280 registros
+***********
+INICIO COMPARACION 280 registros vs 279 del anterior
+Funcionarios a analizar 278 de 280 (se sacan duplicados)
+NUEVO data/funcionarios-2019-03-18.csv: nombre: ERASMO NORBERTO ALMARÁ cargo: SUBDIRECCIÓN DE COOPERADORAS ESCOLARES ministerio MINISTRO DE EDUCACIÓN
+***********
+FIN ARCHIVO funcionarios-2019-03-18.csv: nuevos: 1 repetidos: 277 cambiaron: 0 muertos: 0
+
