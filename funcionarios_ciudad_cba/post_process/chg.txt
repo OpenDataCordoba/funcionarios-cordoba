@@ -386,3 +386,13 @@ Funcionarios a analizar 309 de 309 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-03-18.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-20.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 309 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+Dejó el cargo data/funcionarios-2019-03-20.csv: Nombre: SANTIAGO VOTTERO (DNI (AR) 32773529) Cargo: DIRECCIÓN GENERAL DE SELECCIÓN Y CONCURSOS Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-03-20.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 1
+
