@@ -943,3 +943,15 @@ NUEVO data/funcionarios-2019-03-18.csv: nombre: ERASMO NORBERTO ALMARÁ cargo: S
 ***********
 FIN ARCHIVO funcionarios-2019-03-18.csv: nuevos: 1 repetidos: 277 cambiaron: 0 muertos: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-20.csv
+*********** 280 registros
+***********
+INICIO COMPARACION 280 registros vs 280 del anterior
+Funcionarios a analizar 278 de 280 (se sacan duplicados)
+CAMBIO data/funcionarios-2019-03-20.csv: 
+ nombre: VIRGINIA MONASSA cargo: DIRECCIÓN GENERAL DE COORDINACIÓN Y GESTIÓN DE RECURSOS HUMANOS ministerio MINISTRO DE EDUCACIÓN 
+ nombre: VIRGINIA MONASSA cargo: DIRECCIÓN DE RECURSOS HUMANOS ministerio MINISTRO DE EDUCACIÓN
+***********
+FIN ARCHIVO funcionarios-2019-03-20.csv: nuevos: 0 repetidos: 277 cambiaron: 1 muertos: 0
+
