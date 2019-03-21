@@ -396,3 +396,12 @@ Dejó el cargo data/funcionarios-2019-03-20.csv: Nombre: SANTIAGO VOTTERO (DNI (
 ***********
 FIN ARCHIVO funcionarios-2019-03-20.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 1
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-21.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-03-21.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
