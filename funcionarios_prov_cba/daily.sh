@@ -24,7 +24,7 @@ cd post-process
 python3 detect-changes.py > chg.txt
 
 cd ..
-git add $DEST
+git add .
 git commit -am 'update'
 git push
 
