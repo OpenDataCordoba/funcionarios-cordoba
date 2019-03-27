@@ -441,3 +441,23 @@ Funcionarios a analizar 308 de 308 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-03-25.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-27.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+CAMBIO data/funcionarios-2019-03-27.csv: 
+ Nuevo Nombre: PABLO MONTELEONE (DNI (AR) 21397829) Cargo: DIRECCIÓN DE MEDICINA PREVENTIVA Secretaría SIN DEFINIR 
+ Anterior Nombre: PABLO MONTELEONE (DNI (AR) 21397829) Cargo: SUBDIRECCIÓN DE MEDICINA PREVENTIVA Secretaría SIN DEFINIR
+NUEVO data/funcionarios-2019-03-27.csv: Nombre: GISELA BOLDRINI (DNI (AR) 25457123) Cargo: SUBDIRECCIÓN DE MEDICINA PREVENTIVA Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-03-27.csv: 
+ Nuevo Nombre: LUCAS SAMAME (DNI (AR) 26314348) Cargo: DIRECCIÓN DE ESYOP -  "B" Secretaría SIN DEFINIR 
+ Anterior Nombre: LUCAS SAMAME (DNI (AR) 26314348) Cargo: DIRECCIÓN DE REGISTRO CIVIL Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-03-27.csv: 
+ Nuevo Nombre: CÉSAR FERREYRA (DNI (AR) 12564694) Cargo: ASESOR DE GABINETE Secretaría SIN DEFINIR 
+ Anterior Nombre: CÉSAR FERREYRA (DNI (AR) 12564694) Cargo: DIRECCIÓN DE ESYOP -  "B" Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-03-27.csv: Nombre: EDUARDO RODI (DNI (AR) 10542872) Cargo: DIRECCIÓN DE MEDICINA PREVENTIVA Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-03-27.csv: nuevos: 1 repetidos: 304 cambiaron: 3 Dejaron el cargo: 1
+
