@@ -1057,3 +1057,12 @@ Funcionarios a analizar 278 de 280 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-04-03.csv: nuevos: 0 repetidos: 278 cambiaron: 0 muertos: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-05.csv
+*********** 280 registros
+***********
+INICIO COMPARACION 280 registros vs 280 del anterior
+Funcionarios a analizar 278 de 280 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-04-05.csv: nuevos: 0 repetidos: 278 cambiaron: 0 muertos: 0
+
