@@ -1,13 +1,13 @@
-2019-04-09 08:11:01 [scrapy.utils.log] INFO: Scrapy 1.5.0 started (bot: funcionarios_prov_cba)
-2019-04-09 08:11:01 [scrapy.utils.log] INFO: Versions: lxml 4.2.1.0, libxml2 2.9.8, cssselect 1.0.3, parsel 1.4.0, w3lib 1.19.0, Twisted 17.9.0, Python 3.6.7 (default, Oct 22 2018, 11:32:17) - [GCC 8.2.0], pyOpenSSL 17.5.0 (OpenSSL 1.1.0h  27 Mar 2018), cryptography 2.3, Platform Linux-4.15.0-46-generic-x86_64-with-Ubuntu-18.04-bionic
-2019-04-09 08:11:01 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'funcionarios_prov_cba', 'DOWNLOAD_DELAY': 2.5, 'FEED_FORMAT': 'csv', 'FEED_URI': 'post-process/data/funcionarios-2019-04-09.csv', 'LOG_FILE': 'all.log', 'LOG_LEVEL': 'INFO', 'NEWSPIDER_MODULE': 'funcionarios_prov_cba.spiders', 'ROBOTSTXT_OBEY': True, 'SPIDER_MODULES': ['funcionarios_prov_cba.spiders']}
-2019-04-09 08:11:01 [scrapy.middleware] INFO: Enabled extensions:
+2019-04-11 11:43:35 [scrapy.utils.log] INFO: Scrapy 1.5.0 started (bot: funcionarios_prov_cba)
+2019-04-11 11:43:35 [scrapy.utils.log] INFO: Versions: lxml 4.2.1.0, libxml2 2.9.8, cssselect 1.0.3, parsel 1.4.0, w3lib 1.19.0, Twisted 17.9.0, Python 3.6.7 (default, Oct 22 2018, 11:32:17) - [GCC 8.2.0], pyOpenSSL 17.5.0 (OpenSSL 1.1.0h  27 Mar 2018), cryptography 2.3, Platform Linux-4.15.0-46-generic-x86_64-with-Ubuntu-18.04-bionic
+2019-04-11 11:43:35 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'funcionarios_prov_cba', 'DOWNLOAD_DELAY': 2.5, 'FEED_FORMAT': 'csv', 'FEED_URI': 'post-process/data/funcionarios-2019-04-11.csv', 'LOG_FILE': 'all.log', 'LOG_LEVEL': 'INFO', 'NEWSPIDER_MODULE': 'funcionarios_prov_cba.spiders', 'ROBOTSTXT_OBEY': True, 'SPIDER_MODULES': ['funcionarios_prov_cba.spiders']}
+2019-04-11 11:43:35 [scrapy.middleware] INFO: Enabled extensions:
 ['scrapy.extensions.corestats.CoreStats',
  'scrapy.extensions.telnet.TelnetConsole',
  'scrapy.extensions.memusage.MemoryUsage',
  'scrapy.extensions.feedexport.FeedExporter',
  'scrapy.extensions.logstats.LogStats']
-2019-04-09 08:11:01 [scrapy.middleware] INFO: Enabled downloader middlewares:
+2019-04-11 11:43:35 [scrapy.middleware] INFO: Enabled downloader middlewares:
 ['scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
  'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
  'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
@@ -20,203 +20,199 @@
  'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
  'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
  'scrapy.downloadermiddlewares.stats.DownloaderStats']
-2019-04-09 08:11:01 [scrapy.middleware] INFO: Enabled spider middlewares:
+2019-04-11 11:43:35 [scrapy.middleware] INFO: Enabled spider middlewares:
 ['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
  'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
  'scrapy.spidermiddlewares.referer.RefererMiddleware',
  'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
  'scrapy.spidermiddlewares.depth.DepthMiddleware']
-2019-04-09 08:11:01 [scrapy.middleware] INFO: Enabled item pipelines:
+2019-04-11 11:43:35 [scrapy.middleware] INFO: Enabled item pipelines:
 ['scrapy.pipelines.images.ImagesPipeline']
-2019-04-09 08:11:01 [scrapy.core.engine] INFO: Spider opened
-2019-04-09 08:11:01 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
-2019-04-09 08:11:05 [funcionarios] INFO:  *** BUSCANDO MINISTERIOS **** 
-2019-04-09 08:11:05 [funcionarios] INFO: Ignorando ministerio http://www.upc.edu.ar
-2019-04-09 08:11:08 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Agricultura y Ganadería**** 
-2019-04-09 08:11:08 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-agricultura-y-ganaderia/autoridades/
-2019-04-09 08:11:11 [funcionarios] INFO:  *** INICIANDO MINISTERIO Presidente de la Agencia Córdoba Deportes**** 
-2019-04-09 08:11:11 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/agencia-cordoba-deportes/autoridades-2/
-2019-04-09 08:11:15 [funcionarios] INFO:  *** INICIANDO MINISTERIO Presidente de la Agencia Córdoba Cultura**** 
-2019-04-09 08:11:15 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/agencia-cordoba-cultura/autoridades/
-2019-04-09 08:11:19 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Servicios Públicos**** 
-2019-04-09 08:11:19 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-servicios-publicos/autoridades/
-2019-04-09 08:11:22 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Educación**** 
-2019-04-09 08:11:22 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-educacion/autoridades/
-2019-04-09 08:11:25 [funcionarios] INFO:  *** INICIANDO MINISTERIO Presidente de la Agencia Córdoba Turismo**** 
-2019-04-09 08:11:25 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/agencia-cordoba-turismo/areas-autoridades/
-2019-04-09 08:11:29 [funcionarios] INFO:  *** INICIANDO MINISTERIO Presidente de la Agencia Córdoba Joven**** 
-2019-04-09 08:11:29 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/agencia-cordoba-joven/areas-autoridades/
-2019-04-09 08:11:32 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Industria, Comercio y Minería**** 
-2019-04-09 08:11:32 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-industria-comercio-y-mineria/autoridades/
-2019-04-09 08:11:34 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Gobierno**** 
-2019-04-09 08:11:34 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-gobierno/autoridades/
-2019-04-09 08:11:38 [funcionarios] INFO:  *** INICIANDO MINISTERIO Fiscal de Estado**** 
-2019-04-09 08:11:38 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/fiscalia-de-estado/autoridades/
-2019-04-09 08:11:40 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Finanzas**** 
-2019-04-09 08:11:40 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-finanzas/autoridades/
-2019-04-09 08:11:43 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Desarrollo Social**** 
-2019-04-09 08:11:43 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-desarrollo-social/autoridades/
-2019-04-09 08:11:45 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Ciencia y Tecnología**** 
-2019-04-09 08:11:45 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-ciencia-y-tecnologia/estructura-organica/
-2019-04-09 08:11:48 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Trabajo**** 
-2019-04-09 08:11:48 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-trabajo/autoridades/
-2019-04-09 08:11:52 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaria **** 
-2019-04-09 08:11:52 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/secretaria-privada-del-poder-ejecutivo/estructura-organica/
-2019-04-09 08:11:55 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Salud**** 
-2019-04-09 08:11:55 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-salud/autoridades/
-2019-04-09 08:12:01 [scrapy.extensions.logstats] INFO: Crawled 18 pages (at 18 pages/min), scraped 16 items (at 16 items/min)
-2019-04-09 08:12:03 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Agricultura y Ganadería **** 
-2019-04-09 08:12:03 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_23727">\r\n\t\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-agricultura-y-ganaderia/. Cargo: 
+2019-04-11 11:43:35 [scrapy.core.engine] INFO: Spider opened
+2019-04-11 11:43:35 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2019-04-11 11:43:38 [funcionarios] INFO:  *** BUSCANDO MINISTERIOS **** 
+2019-04-11 11:43:38 [funcionarios] INFO: Ignorando ministerio http://www.upc.edu.ar
+2019-04-11 11:43:42 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Agricultura y Ganadería**** 
+2019-04-11 11:43:42 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-agricultura-y-ganaderia/autoridades/
+2019-04-11 11:43:45 [funcionarios] INFO:  *** INICIANDO MINISTERIO Presidente de la Agencia Córdoba Turismo**** 
+2019-04-11 11:43:45 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/agencia-cordoba-turismo/areas-autoridades/
+2019-04-11 11:43:48 [funcionarios] INFO:  *** INICIANDO MINISTERIO Presidente de la Agencia Córdoba Joven**** 
+2019-04-11 11:43:48 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/agencia-cordoba-joven/areas-autoridades/
+2019-04-11 11:43:51 [funcionarios] INFO:  *** INICIANDO MINISTERIO Presidente de la Agencia Córdoba Deportes**** 
+2019-04-11 11:43:51 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/agencia-cordoba-deportes/autoridades-2/
+2019-04-11 11:43:54 [funcionarios] INFO:  *** INICIANDO MINISTERIO Presidente de la Agencia Córdoba Cultura**** 
+2019-04-11 11:43:54 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/agencia-cordoba-cultura/autoridades/
+2019-04-11 11:43:58 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Servicios Públicos**** 
+2019-04-11 11:43:58 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-servicios-publicos/autoridades/
+2019-04-11 11:44:01 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Ciencia y Tecnología**** 
+2019-04-11 11:44:01 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-ciencia-y-tecnologia/estructura-organica/
+2019-04-11 11:44:04 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Trabajo**** 
+2019-04-11 11:44:04 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-trabajo/autoridades/
+2019-04-11 11:44:07 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaria **** 
+2019-04-11 11:44:07 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/secretaria-privada-del-poder-ejecutivo/estructura-organica/
+2019-04-11 11:44:08 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Salud**** 
+2019-04-11 11:44:08 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-salud/autoridades/
+2019-04-11 11:44:13 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Justicia y Derechos Humanos**** 
+2019-04-11 11:44:13 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/autoridades/
+2019-04-11 11:44:17 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Obras Públicas y Financiamiento**** 
+2019-04-11 11:44:17 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-obras-pubicas-y-financiamiento/autoridades/
+2019-04-11 11:44:17 [funcionarios] INFO:  *** INICIANDO MINISTERIO Presidente de la Agencia Córdoba Innovar y Emprender**** 
+2019-04-11 11:44:17 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/agencia-cordoba-innovar-y-emprender/estructura-organica/
+2019-04-11 11:44:23 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Industria, Comercio y Minería**** 
+2019-04-11 11:44:23 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-industria-comercio-y-mineria/autoridades/
+2019-04-11 11:44:23 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Gobierno**** 
+2019-04-11 11:44:23 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-gobierno/autoridades/
+2019-04-11 11:44:27 [funcionarios] INFO:  *** INICIANDO MINISTERIO Fiscal de Estado**** 
+2019-04-11 11:44:27 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/fiscalia-de-estado/autoridades/
+2019-04-11 11:44:32 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Agricultura y Ganadería **** 
+2019-04-11 11:44:32 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_23727">\r\n\t\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-agricultura-y-ganaderia/. Cargo: 
 				Dirección Control de Gestión y Desarrollo	
 			 / 
 Director Control  de Gestión y Desarrollo				
-2019-04-09 08:12:03 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_23811">\r\n\t\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-agricultura-y-ganaderia/. Cargo: 
+2019-04-11 11:44:32 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_23811">\r\n\t\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-agricultura-y-ganaderia/. Cargo: 
 				Dirección de Recursos Humanos	
 			 / 
 Dirección de Recursos Humanos				
-2019-04-09 08:12:06 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Presidente de la Agencia Córdoba Deportes **** 
-2019-04-09 08:12:09 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Presidente de la Agencia Córdoba Cultura **** 
-2019-04-09 08:12:12 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Servicios Públicos **** 
-2019-04-09 08:12:12 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-servicios-publicos/. Cargo: 
+2019-04-11 11:44:34 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Presidente de la Agencia Córdoba Turismo **** 
+2019-04-11 11:44:35 [scrapy.extensions.logstats] INFO: Crawled 20 pages (at 20 pages/min), scraped 37 items (at 37 items/min)
+2019-04-11 11:44:37 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Presidente de la Agencia Córdoba Joven **** 
+2019-04-11 11:44:41 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Presidente de la Agencia Córdoba Deportes **** 
+2019-04-11 11:44:44 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Presidente de la Agencia Córdoba Cultura **** 
+2019-04-11 11:44:48 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Servicios Públicos **** 
+2019-04-11 11:44:48 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-servicios-publicos/. Cargo: 
 				Dirección General de Regulación de Servicios Públicos	
 			 / 
 Director General de Regulación de Servicios Públicos				
-2019-04-09 08:12:12 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-servicios-publicos/. Cargo: 
+2019-04-11 11:44:48 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-servicios-publicos/. Cargo: 
 				Dirección General de Irrigación	
 			 / 
 Director General de Irrigación				
-2019-04-09 08:12:12 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-servicios-publicos/. Cargo: 
+2019-04-11 11:44:48 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-servicios-publicos/. Cargo: 
 				Dirección General de Recursos Hídricos	
 			 / 
 Director General de Recursos Hídricos				
-2019-04-09 08:12:12 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-servicios-publicos/. Cargo: 
+2019-04-11 11:44:48 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-servicios-publicos/. Cargo: 
 				Dirección de Gestión Institucional	
 			 / 
 Director de Gestión Institucional				
-2019-04-09 08:12:12 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-servicios-publicos/. Cargo: 
+2019-04-11 11:44:48 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-servicios-publicos/. Cargo: 
 				Dirección de Planificación	
 			 / 
 Director de Planificación				
-2019-04-09 08:12:14 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Educación **** 
-2019-04-09 08:12:14 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-educacion/. Cargo: 
-				Dirección de Recursos Humanos	
-			 / 
-				
-2019-04-09 08:12:18 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Presidente de la Agencia Córdoba Turismo **** 
-2019-04-09 08:12:22 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Presidente de la Agencia Córdoba Joven **** 
-2019-04-09 08:12:24 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Industria, Comercio y Minería **** 
-2019-04-09 08:12:24 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-industria-comercio-y-mineria/. Cargo: 
-				Dirección de Defensa del Consumidor y Lealtad Comercial	
-			 / 
-Director de Defensa del Consumidor y Lealtad Comercial				
-2019-04-09 08:12:27 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Gobierno **** 
-2019-04-09 08:12:27 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-gobierno/. Cargo: 
-				Seguridad Náutica	
-			 / 
-Seguridad Náutica				
-2019-04-09 08:12:27 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_61457">\r\n\t\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-gobierno/. Cargo: 
-				Secretaría de Seguridad Ciudadana	
-			 / 
-Secretario de Seguridad Ciudadana				
-2019-04-09 08:12:30 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Fiscal de Estado **** 
-2019-04-09 08:12:30 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_1031">\r\n\t\t\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/fiscalia-de-estado/. Cargo: 
-				Procuración del Tesoro	
-			 / 
-Procurador del Tesoro				
-2019-04-09 08:12:31 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Finanzas **** 
-2019-04-09 08:12:31 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_113148">\r\n\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-finanzas/. Cargo: 
-				Consejo Provincial de Planificación Estratégica (COPEC)	
-			 / 
-Presidente del Consejo Provincial de Planificación Estratégica (COPEC)				
-2019-04-09 08:12:36 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Desarrollo Social **** 
-2019-04-09 08:12:39 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Ciencia y Tecnología **** 
-2019-04-09 08:12:39 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_30626">\r\n\t\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-ciencia-y-tecnologia/. Cargo: 
+2019-04-11 11:44:52 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Ciencia y Tecnología **** 
+2019-04-11 11:44:52 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_30626">\r\n\t\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-ciencia-y-tecnologia/. Cargo: 
 				Dirección de Promoción de Actividades Científicas	
 			 / 
 Director de Promoción de Actividades Científicas				
-2019-04-09 08:12:42 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Trabajo **** 
-2019-04-09 08:12:45 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Secretaria  **** 
-2019-04-09 08:12:45 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_72691">\r\n\t\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/secretaria-privada-del-poder-ejecutivo/. Cargo: 
+2019-04-11 11:44:55 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Trabajo **** 
+2019-04-11 11:44:56 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Secretaria  **** 
+2019-04-11 11:44:56 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_72691">\r\n\t\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/secretaria-privada-del-poder-ejecutivo/. Cargo: 
 				Dirección General de Ceremonial y Audiencias	
 			 / 
 Director General de Ceremonial y Audiencias				
-2019-04-09 08:12:47 [funcionarios] INFO:  *** INICIANDO MINISTERIO Presidente**** 
-2019-04-09 08:12:47 [funcionarios] INFO: ********
-No hay organica en {'funcionario': 'Marcelo Botta', 'cargo_generico': 'Presidente', 'cargo_ocupado': 'Presidente', 'ministerio': 'Presidente', 'web_url': 'http://www.cba.gov.ar/reparticion/ministerio-de-inversion-y-financiamiento/agencia-cordoba-inversiones-y-financiamiento-sem/', 'foto_url': ['http://www.cba.gov.ar/wp-content/4p96humuzp/2014/07/botta.jpg']}
-********
-2019-04-09 08:12:51 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Salud **** 
-2019-04-09 08:12:53 [funcionarios] INFO:  *** INICIANDO MINISTERIO Presidente Agencia ProCórdoba**** 
-2019-04-09 08:12:53 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/agencia-pro-cordoba/estructura-organica/
-2019-04-09 08:12:56 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaria de Planeamiento y Modernización**** 
-2019-04-09 08:12:56 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/secretaria-de-planeamiento-y-modernizacion/estructura-organica/
-2019-04-09 08:13:00 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretario de Comunicaciones y Conectividad**** 
-2019-04-09 08:13:00 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/secretaria-de-comunicaciones-y-conectividad/estructura-organica/
-2019-04-09 08:13:01 [scrapy.extensions.logstats] INFO: Crawled 38 pages (at 20 pages/min), scraped 218 items (at 202 items/min)
-2019-04-09 08:13:02 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaria de Equidad y Promoción del Empleo**** 
-2019-04-09 08:13:02 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/secretaria-de-equidad-y-promocion-del-empleo/estructura-organica/
-2019-04-09 08:13:06 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaria General de la Gobernación**** 
-2019-04-09 08:13:06 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/secretaria-general-de-la-gobernacion/estructura-organica/
-2019-04-09 08:13:09 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Justicia y Derechos Humanos**** 
-2019-04-09 08:13:09 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/autoridades/
-2019-04-09 08:13:13 [funcionarios] INFO:  *** INICIANDO MINISTERIO Presidente de la Agencia Córdoba Innovar y Emprender**** 
-2019-04-09 08:13:13 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/agencia-cordoba-innovar-y-emprender/estructura-organica/
-2019-04-09 08:13:15 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Obras Públicas y Financiamiento**** 
-2019-04-09 08:13:15 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-obras-pubicas-y-financiamiento/autoridades/
-2019-04-09 08:13:19 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Presidente Agencia ProCórdoba **** 
-2019-04-09 08:13:22 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Secretaria de Planeamiento y Modernización **** 
-2019-04-09 08:13:25 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Secretario de Comunicaciones y Conectividad **** 
-2019-04-09 08:13:27 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Secretaria de Equidad y Promoción del Empleo **** 
-2019-04-09 08:13:30 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Secretaria General de la Gobernación **** 
-2019-04-09 08:13:30 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/secretaria-general-de-la-gobernacion/. Cargo: 
-				Dirección General de Administración	
-			 / 
-Directora General de Administración				
-2019-04-09 08:13:30 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/secretaria-general-de-la-gobernacion/. Cargo: 
-				Dirección General de Coordinación Operativa	
-			 / 
-Directora General de Coordinación Operativa				
-2019-04-09 08:13:32 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Justicia y Derechos Humanos **** 
-2019-04-09 08:13:32 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
+2019-04-11 11:45:02 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Salud **** 
+2019-04-11 11:45:05 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Justicia y Derechos Humanos **** 
+2019-04-11 11:45:05 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
 				Dirección General Registro Civil y Capacidad de las Personas 	
 			 / 
 Directora General Registro Civil y Capacidad de las Personas				
-2019-04-09 08:13:32 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
+2019-04-11 11:45:05 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
 				Subsecretaría de Asistencia y Trata de Personas	
 			 / 
 Subsecretaria de Asistencia y Trata de Personas				
-2019-04-09 08:13:32 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
+2019-04-11 11:45:05 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
 				Dirección de Coordinación Operativa y Capacitación	
 			 / 
 				
-2019-04-09 08:13:32 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_1138">\r\n\t\t\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
+2019-04-11 11:45:05 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_1138">\r\n\t\t\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
 				Secretaría de Organización y Gestión Penitenciaria	
 			 / 
 Secretario de Organización y Gestión Penitenciaria				
-2019-04-09 08:13:32 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
+2019-04-11 11:45:05 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
 				Dirección de Trabajo, Producción y Comercialización Penitenciaria del Servicio Penitenciario de Córdoba	
 			 / 
 Director de Trabajo, Producción y Comercialización Penitenciaria del Servicio Penitenciario de Córdoba				
-2019-04-09 08:13:32 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
+2019-04-11 11:45:05 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
 				Dirección del Patronato del Liberado	
 			 / 
 				
-2019-04-09 08:13:32 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
+2019-04-11 11:45:05 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
 				Dirección de Políticas Penitenciarias	
 			 / 
 Director de Políticas Penitenciarias				
-2019-04-09 08:13:32 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_180604">\r\n\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
+2019-04-11 11:45:05 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_180604">\r\n\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-justicia-y-derechos-humanos/. Cargo: 
 				Consejo de la Magistratura	
 			 / 
 				
-2019-04-09 08:13:36 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Presidente de la Agencia Córdoba Innovar y Emprender **** 
-2019-04-09 08:13:39 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Obras Públicas y Financiamiento **** 
-2019-04-09 08:13:39 [scrapy.core.engine] INFO: Closing spider (finished)
-2019-04-09 08:13:39 [scrapy.extensions.feedexport] INFO: Stored csv feed (305 items) in: post-process/data/funcionarios-2019-04-09.csv
-2019-04-09 08:13:39 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
-{'downloader/request_bytes': 17609,
+2019-04-11 11:45:08 [funcionarios] INFO:  *** INICIANDO MINISTERIO Presidente Agencia ProCórdoba**** 
+2019-04-11 11:45:08 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/agencia-pro-cordoba/estructura-organica/
+2019-04-11 11:45:12 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Presidente de la Agencia Córdoba Innovar y Emprender **** 
+2019-04-11 11:45:18 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Obras Públicas y Financiamiento **** 
+2019-04-11 11:45:21 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Gobierno **** 
+2019-04-11 11:45:21 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-gobierno/. Cargo: 
+				Seguridad Náutica	
+			 / 
+Seguridad Náutica				
+2019-04-11 11:45:23 [funcionarios] INFO:  *** INICIANDO MINISTERIO Presidente**** 
+2019-04-11 11:45:23 [funcionarios] INFO: ********
+No hay organica en {'funcionario': 'Marcelo Botta', 'cargo_generico': 'Presidente', 'cargo_ocupado': 'Presidente', 'ministerio': 'Presidente', 'web_url': 'http://www.cba.gov.ar/reparticion/ministerio-de-inversion-y-financiamiento/agencia-cordoba-inversiones-y-financiamiento-sem/', 'foto_url': ['http://www.cba.gov.ar/wp-content/4p96humuzp/2014/07/botta.jpg']}
+********
+2019-04-11 11:45:29 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaria de Planeamiento y Modernización**** 
+2019-04-11 11:45:29 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/secretaria-de-planeamiento-y-modernizacion/estructura-organica/
+2019-04-11 11:45:31 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Fiscal de Estado **** 
+2019-04-11 11:45:31 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_1031">\r\n\t\t\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/fiscalia-de-estado/. Cargo: 
+				Procuración del Tesoro	
+			 / 
+Procurador del Tesoro				
+2019-04-11 11:45:35 [scrapy.extensions.logstats] INFO: Crawled 36 pages (at 16 pages/min), scraped 189 items (at 152 items/min)
+2019-04-11 11:45:43 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Industria, Comercio y Minería **** 
+2019-04-11 11:45:43 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-industria-comercio-y-mineria/. Cargo: 
+				Dirección de Defensa del Consumidor y Lealtad Comercial	
+			 / 
+Director de Defensa del Consumidor y Lealtad Comercial				
+2019-04-11 11:45:43 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Desarrollo Social**** 
+2019-04-11 11:45:43 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-desarrollo-social/autoridades/
+2019-04-11 11:45:46 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Educación**** 
+2019-04-11 11:45:46 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-educacion/autoridades/
+2019-04-11 11:45:47 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaria General de la Gobernación**** 
+2019-04-11 11:45:47 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/secretaria-general-de-la-gobernacion/estructura-organica/
+2019-04-11 11:45:52 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Secretaria de Planeamiento y Modernización **** 
+2019-04-11 11:45:58 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaria de Equidad y Promoción del Empleo**** 
+2019-04-11 11:45:58 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/secretaria-de-equidad-y-promocion-del-empleo/estructura-organica/
+2019-04-11 11:46:00 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretario de Comunicaciones y Conectividad**** 
+2019-04-11 11:46:00 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/secretaria-de-comunicaciones-y-conectividad/estructura-organica/
+2019-04-11 11:46:03 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Desarrollo Social **** 
+2019-04-11 11:46:05 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Educación **** 
+2019-04-11 11:46:05 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-educacion/. Cargo: 
+				Dirección de Recursos Humanos	
+			 / 
+				
+2019-04-11 11:46:07 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministro de Finanzas**** 
+2019-04-11 11:46:07 [funcionarios] INFO: Organica en http://www.cba.gov.ar/reparticion/ministerio-de-finanzas/autoridades/
+2019-04-11 11:46:09 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Secretaria General de la Gobernación **** 
+2019-04-11 11:46:09 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/secretaria-general-de-la-gobernacion/. Cargo: 
+				Dirección General de Administración	
+			 / 
+Directora General de Administración				
+2019-04-11 11:46:09 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div style="display:none;" class="desple'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/secretaria-general-de-la-gobernacion/. Cargo: 
+				Dirección General de Coordinación Operativa	
+			 / 
+Directora General de Coordinación Operativa				
+2019-04-11 11:46:11 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Presidente Agencia ProCórdoba **** 
+2019-04-11 11:46:13 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Secretaria de Equidad y Promoción del Empleo **** 
+2019-04-11 11:46:16 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Ministro de Finanzas **** 
+2019-04-11 11:46:16 [funcionarios] INFO: Autoridad no identificada: [<Selector xpath='.//div' data='<div class="desplega desp_113148">\r\n\t\t\t\t'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>, <Selector xpath='.//div' data='<div class="acceder_largue">\r\n\t\t\t\t<a hre'>] en http://www.cba.gov.ar/reparticion/ministerio-de-finanzas/. Cargo: 
+				Consejo Provincial de Planificación Estratégica (COPEC)	
+			 / 
+Presidente del Consejo Provincial de Planificación Estratégica (COPEC)				
+2019-04-11 11:46:19 [funcionarios] INFO:  *** EN ESTRUCTURA MINISTERIO Secretario de Comunicaciones y Conectividad **** 
+2019-04-11 11:46:19 [scrapy.core.engine] INFO: Closing spider (finished)
+2019-04-11 11:46:19 [scrapy.extensions.feedexport] INFO: Stored csv feed (304 items) in: post-process/data/funcionarios-2019-04-11.csv
+2019-04-11 11:46:19 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 18345,
  'downloader/request_count': 52,
  'downloader/request_method_count/GET': 52,
- 'downloader/response_bytes': 603979,
+ 'downloader/response_bytes': 607905,
  'downloader/response_count': 52,
  'downloader/response_status_count/200': 50,
  'downloader/response_status_count/301': 1,
@@ -224,16 +220,16 @@ Director de Políticas Penitenciarias
  'file_count': 204,
  'file_status_count/uptodate': 204,
  'finish_reason': 'finished',
- 'finish_time': datetime.datetime(2019, 4, 9, 11, 13, 39, 260822),
- 'item_scraped_count': 305,
- 'log_count/INFO': 111,
- 'memusage/max': 63283200,
- 'memusage/startup': 53297152,
+ 'finish_time': datetime.datetime(2019, 4, 11, 14, 46, 19, 592054),
+ 'item_scraped_count': 304,
+ 'log_count/INFO': 110,
+ 'memusage/max': 62443520,
+ 'memusage/startup': 53383168,
  'request_depth_max': 2,
  'response_received_count': 51,
  'scheduler/dequeued': 51,
  'scheduler/dequeued/memory': 51,
  'scheduler/enqueued': 51,
  'scheduler/enqueued/memory': 51,
- 'start_time': datetime.datetime(2019, 4, 9, 11, 11, 1, 915045)}
-2019-04-09 08:13:39 [scrapy.core.engine] INFO: Spider closed (finished)
+ 'start_time': datetime.datetime(2019, 4, 11, 14, 43, 35, 199517)}
+2019-04-11 11:46:19 [scrapy.core.engine] INFO: Spider closed (finished)
