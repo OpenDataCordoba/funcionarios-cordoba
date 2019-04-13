@@ -1,10 +1,10 @@
-Inicio de Comparacion para la Fecha: 2019-04-11
-Entre 2019-04-09 00:00:00 y 2019-04-11 el cargo Presidente se mantiene sin cambios.
-Entre 2019-04-09 00:00:00 y 2019-04-11 el cargo Vocal por la Mayoria se mantiene sin cambios.
-Entre 2019-04-09 00:00:00 y 2019-04-11 el cargo Vocal por la Minoria se mantiene sin cambios.
-Entre 2019-04-09 00:00:00 y 2019-04-11 el cargo Secretaria de Fiscalizacion Legal se mantiene sin cambios.
-Entre 2019-04-09 00:00:00 y 2019-04-11 el cargo Prosecretaria de Fiscalizacion Legal se mantiene sin cambios.
-Entre 2019-04-09 00:00:00 y 2019-04-11 el cargo Secretaria de Fiscalizacion Presupuestaria se mantiene sin cambios.
-Entre 2019-04-09 00:00:00 y 2019-04-11 el cargo Prosecretaria de Fiscalizacion Presupuestaria se mantiene sin cambios.
-Entre 2019-04-09 00:00:00 y 2019-04-11 el cargo Fiscalia se mantiene sin cambios.
+Inicio de Comparacion para la Fecha: 2019-04-13
+Entre 2019-04-11 00:00:00 y 2019-04-13 el cargo Presidente se mantiene sin cambios.
+Entre 2019-04-11 00:00:00 y 2019-04-13 el cargo Vocal por la Mayoria se mantiene sin cambios.
+Entre 2019-04-11 00:00:00 y 2019-04-13 el cargo Vocal por la Minoria se mantiene sin cambios.
+Entre 2019-04-11 00:00:00 y 2019-04-13 el cargo Secretaria de Fiscalizacion Legal se mantiene sin cambios.
+Entre 2019-04-11 00:00:00 y 2019-04-13 el cargo Prosecretaria de Fiscalizacion Legal se mantiene sin cambios.
+Entre 2019-04-11 00:00:00 y 2019-04-13 el cargo Secretaria de Fiscalizacion Presupuestaria se mantiene sin cambios.
+Entre 2019-04-11 00:00:00 y 2019-04-13 el cargo Prosecretaria de Fiscalizacion Presupuestaria se mantiene sin cambios.
+Entre 2019-04-11 00:00:00 y 2019-04-13 el cargo Fiscalia se mantiene sin cambios.
 ######## Fin Comparacion ###########
