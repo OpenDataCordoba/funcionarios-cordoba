@@ -554,3 +554,12 @@ Dejó el cargo data/funcionarios-2019-04-13.csv: Nombre: GONZALO SALVETTI (DNI (
 ***********
 FIN ARCHIVO funcionarios-2019-04-13.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 1
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-20.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-04-20.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
