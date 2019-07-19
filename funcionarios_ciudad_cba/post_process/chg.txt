@@ -699,3 +699,15 @@ Dejó el cargo data/funcionarios-2019-06-21.csv: Nombre: LUCAS VALDES (DNI (AR) 
 ***********
 FIN ARCHIVO funcionarios-2019-06-21.csv: nuevos: 3 repetidos: 296 cambiaron: 5 Dejaron el cargo: 5
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-07-19.csv
+*********** 304 registros
+***********
+INICIO COMPARACION 304 registros vs 304 del anterior
+Funcionarios a analizar 304 de 304 (se sacan duplicados)
+CAMBIO data/funcionarios-2019-07-19.csv: 
+ Nuevo Nombre: NICOLÁS ALVAREZ (DNI (AR) 36483833) Cargo: SUBDIRECCIÓN DE SISTEMAS DE INFORMACIÓN Y ACCESO A LA INFORMACIÓN PÚBLICA Secretaría SIN DEFINIR 
+ Anterior Nombre: NICOLÁS ALVAREZ (DNI (AR) 36483833) Cargo: SUBDIRECCIÓN DE SISTEMAS DE INFORMACIÓN Y ACCESO A LA INFORMACIÓN Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-07-19.csv: nuevos: 0 repetidos: 303 cambiaron: 1 Dejaron el cargo: 0
+
