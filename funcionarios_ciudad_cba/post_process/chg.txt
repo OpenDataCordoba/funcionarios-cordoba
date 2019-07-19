@@ -644,3 +644,58 @@ Funcionarios a analizar 307 de 307 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-05-19.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-05-22.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-05-22.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-05-30.csv
+*********** 306 registros
+***********
+INICIO COMPARACION 306 registros vs 307 del anterior
+Funcionarios a analizar 306 de 306 (se sacan duplicados)
+NUEVO data/funcionarios-2019-05-30.csv: Nombre: GABRIEL GRACO (DNI (AR) 13964354) Cargo: SUBDIRECCIÓN DE ADULTOS MAYORES Secretaría SIN DEFINIR
+NUEVO data/funcionarios-2019-05-30.csv: Nombre: MARIANA URAVICH (DNI (AR) 21162254) Cargo: SUBDIRECCIÓN DE LOGÍSTICA Y SEGURIDAD Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-05-30.csv: Nombre: PATRICIA MACHADO (DNI (AR) 13103291) Cargo: SUBDIRECCIÓN DE USO DEL SUELO Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-05-30.csv: Nombre: JULIO MARTINEZ (DNI (AR) 8247216) Cargo: SUBDIRECCIÓN DE CENTRO DE PARTICIPACIÓN COMUNAL Nº 5 - RUTA 20 Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-05-30.csv: Nombre: PATRICIA PUENTE (DNI (AR) 13983575) Cargo: DIRECCIÓN DE FISCALIZACIÓN Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-05-30.csv: nuevos: 2 repetidos: 304 cambiaron: 0 Dejaron el cargo: 3
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-06-21.csv
+*********** 304 registros
+***********
+INICIO COMPARACION 304 registros vs 306 del anterior
+Funcionarios a analizar 304 de 304 (se sacan duplicados)
+NUEVO data/funcionarios-2019-06-21.csv: Nombre: NICOLÁS ALVAREZ (DNI (AR) 36483833) Cargo: SUBDIRECCIÓN DE SISTEMAS DE INFORMACIÓN Y ACCESO A LA INFORMACIÓN Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-06-21.csv: 
+ Nuevo Nombre: MARILINA BRUSSINO (DNI (AR) 31223050) Cargo: SUBDIRECCIÓN DE PRENSA Y COMUNICACIÓN AUDIOVISUAL Secretaría SIN DEFINIR 
+ Anterior Nombre: MARILINA BRUSSINO (DNI (AR) 31223050) Cargo: SUBDIRECCIÓN DE PRENSA Secretaría SIN DEFINIR
+NUEVO data/funcionarios-2019-06-21.csv: Nombre: ANDREA MARTINEZ (DNI (AR) 28065078) Cargo: SUBDIRECCIÓN DE INNOVACIÓN Y CREATIVIDAD Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-06-21.csv: 
+ Nuevo Nombre: SEBASTIÁN MAGLIANO (DNI (AR) 27941449) Cargo: DIRECCIÓN GENERAL DE COMUNICACIÓN Y MEDIOS Secretaría SIN DEFINIR 
+ Anterior Nombre: SEBASTIÁN MAGLIANO (DNI (AR) 27941449) Cargo: DIRECCIÓN DE PRENSA Y DIFUSIÓN Secretaría SIN DEFINIR
+NUEVO data/funcionarios-2019-06-21.csv: Nombre: JUAN SACCHETTO (DNI (AR) 27795158) Cargo: ASESOR DE GABINETE Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-06-21.csv: 
+ Nuevo Nombre: IGNACIO DE LEÓN (DNI (AR) 33101535) Cargo: DIRECCIÓN DE MODERNIZACIÓN Secretaría SIN DEFINIR 
+ Anterior Nombre: IGNACIO DE LEÓN (DNI (AR) 33101535) Cargo: DIRECCIÓN GENERAL DE MODERNIZACIÓN Y TECNOLOGÍA Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-06-21.csv: 
+ Nuevo Nombre: GUSTAVO FUNES (DNI (AR) 22371124) Cargo: DIRECCIÓN DE TECNOLOGÍA, SISTEMAS TRIBUTARIO Y ADMINISTRACIÓN FINANCIERA Secretaría SIN DEFINIR 
+ Anterior Nombre: GUSTAVO FUNES (DNI (AR) 22371124) Cargo: SUBDIRECCIÓN DE INFORMÁTICA, SISTEMA TRIBUTARIO Y ADMINISTRACIÓN FINANCIERA Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-06-21.csv: 
+ Nuevo Nombre: FACUNDO BARRIONUEVO (DNI (AR) 31126913) Cargo: DIRECCIÓN GENERAL DE GOBIERNO ABIERTO, ACCESO A LA INFORMACIÓN PÚBLICA, Y ESTADÍSTICA Y CENSOS Secretaría SIN DEFINIR 
+ Anterior Nombre: FACUNDO BARRIONUEVO (DNI (AR) 31126913) Cargo: DIRECCIÓN DE GOBIERNO ABIERTO, ACCESO A LA INFORMACIÓN PÚBLICA Y ESTADÍSTICAS Y CENSOS Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-06-21.csv: Nombre: ANDRÉS VÁZQUEZ (DNI (AR) 26453653) Cargo: DIRECCIÓN DE SISTEMAS DE INFORMACIÓN E INNOVACIÓN Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-06-21.csv: Nombre: ALEJANDRO ÁLVAREZ NOBELL (DNI (AR) 29203276) Cargo: DIRECCIÓN GENERAL DE COMUNICACIÓN Y MEDIOS Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-06-21.csv: Nombre: RUBÉN DONOZO (DNI (AR) 23212833) Cargo: SUBDIRECCIÓN DE CONTROL DE RECURSOS HUMANOS Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-06-21.csv: Nombre: MARTÍN FLORES (DNI (AR) 26089758) Cargo: DIRECCIÓN DE GESTIÓN Y COORDINACIÓN LABORAL "A" Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-06-21.csv: Nombre: LUCAS VALDES (DNI (AR) 32623296) Cargo: SUBDIRECCIÓN DE MEDIOS DIGITALES Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-06-21.csv: nuevos: 3 repetidos: 296 cambiaron: 5 Dejaron el cargo: 5
+

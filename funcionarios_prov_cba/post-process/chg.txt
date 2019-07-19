@@ -1192,3 +1192,40 @@ Funcionarios a analizar 278 de 280 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-05-18.csv: nuevos: 0 repetidos: 278 cambiaron: 0 muertos: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-05-22.csv
+*********** 280 registros
+***********
+INICIO COMPARACION 280 registros vs 280 del anterior
+Funcionarios a analizar 278 de 280 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-05-22.csv: nuevos: 0 repetidos: 278 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-05-30.csv
+*********** 280 registros
+***********
+INICIO COMPARACION 280 registros vs 280 del anterior
+Funcionarios a analizar 278 de 280 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-05-30.csv: nuevos: 0 repetidos: 278 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-06-21.csv
+*********** 281 registros
+***********
+INICIO COMPARACION 281 registros vs 280 del anterior
+Funcionarios a analizar 279 de 281 (se sacan duplicados)
+NUEVO data/funcionarios-2019-06-21.csv: nombre: JUAN MANUEL DELGADO cargo: PROCURACIÓN DEL TESORO ministerio FISCAL DE ESTADO
+***********
+FIN ARCHIVO funcionarios-2019-06-21.csv: nuevos: 1 repetidos: 278 cambiaron: 0 muertos: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-07-19.csv
+*********** 281 registros
+***********
+INICIO COMPARACION 281 registros vs 281 del anterior
+Funcionarios a analizar 279 de 281 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-07-19.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
+
