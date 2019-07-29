@@ -711,3 +711,13 @@ CAMBIO data/funcionarios-2019-07-19.csv:
 ***********
 FIN ARCHIVO funcionarios-2019-07-19.csv: nuevos: 0 repetidos: 303 cambiaron: 1 Dejaron el cargo: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-07-29.csv
+*********** 305 registros
+***********
+INICIO COMPARACION 305 registros vs 304 del anterior
+Funcionarios a analizar 305 de 305 (se sacan duplicados)
+NUEVO data/funcionarios-2019-07-29.csv: Nombre: MIGUEL CAPDEVILA (DNI (AR) 22162833) Cargo: SUBDIRECCIÓN DE CENTRO DE PARTICIPACIÓN COMUNAL Nº 5 - RUTA 20 Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-07-29.csv: nuevos: 1 repetidos: 304 cambiaron: 0 Dejaron el cargo: 0
+
