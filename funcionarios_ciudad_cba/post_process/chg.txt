@@ -721,3 +721,13 @@ NUEVO data/funcionarios-2019-07-29.csv: Nombre: MIGUEL CAPDEVILA (DNI (AR) 22162
 ***********
 FIN ARCHIVO funcionarios-2019-07-29.csv: nuevos: 1 repetidos: 304 cambiaron: 0 Dejaron el cargo: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-08-02.csv
+*********** 304 registros
+***********
+INICIO COMPARACION 304 registros vs 305 del anterior
+Funcionarios a analizar 304 de 304 (se sacan duplicados)
+Dejó el cargo data/funcionarios-2019-08-02.csv: Nombre: CECILIA BARLETTA (DNI (AR) 25203726) Cargo: DIRECCIÓN DE FORTALECIMIENTO TERRITORIAL Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-08-02.csv: nuevos: 0 repetidos: 304 cambiaron: 0 Dejaron el cargo: 1
+
