@@ -1258,3 +1258,12 @@ MUERTO data/funcionarios-2019-08-10.csv: nombre: ADOLFO BRINGAS cargo: DIRECCIÓ
 ***********
 FIN ARCHIVO funcionarios-2019-08-10.csv: nuevos: 1 repetidos: 278 cambiaron: 0 muertos: 1
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-08-14.csv
+*********** 281 registros
+***********
+INICIO COMPARACION 281 registros vs 281 del anterior
+Funcionarios a analizar 279 de 281 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-08-14.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
+
