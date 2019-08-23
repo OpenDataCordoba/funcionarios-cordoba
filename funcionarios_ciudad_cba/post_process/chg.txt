@@ -776,3 +776,18 @@ Funcionarios a analizar 304 de 304 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-08-18.csv: nuevos: 0 repetidos: 304 cambiaron: 0 Dejaron el cargo: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-08-22.csv
+*********** 305 registros
+***********
+INICIO COMPARACION 305 registros vs 304 del anterior
+Funcionarios a analizar 305 de 305 (se sacan duplicados)
+NUEVO data/funcionarios-2019-08-22.csv: Nombre: NOELIA ROLAND (DNI (AR) 35090958) Cargo: SUBDIRECCIÓN DE ASUNTOS LEGISLATIVOS Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-08-22.csv: 
+ Nuevo Nombre: MARINA BEAS (DNI (AR) 26480342) Cargo: DIRECCIÓN DE EMERGENCIA SOCIAL Secretaría SIN DEFINIR 
+ Anterior Nombre: MARINA BEAS (DNI (AR) 26480342) Cargo: SUBDIRECCIÓN DE ASISTENCIA SOCIAL Secretaría SIN DEFINIR
+NUEVO data/funcionarios-2019-08-22.csv: Nombre: CECILIA BARLETTA (DNI (AR) 25203726) Cargo: SUBDIRECCIÓN DE ASISTENCIA SOCIAL Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-08-22.csv: Nombre: MARCELO BRISIGHELLI (DNI (AR) 18608108) Cargo: SUBDIRECCIÓN DE ALUMBRADO PÚBLICO - ZONA NORTE Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-08-22.csv: nuevos: 2 repetidos: 302 cambiaron: 1 Dejaron el cargo: 1
+
