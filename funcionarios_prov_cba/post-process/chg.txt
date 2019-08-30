@@ -1294,3 +1294,14 @@ Funcionarios a analizar 279 de 281 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-08-22.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-08-30.csv
+*********** 281 registros
+***********
+INICIO COMPARACION 281 registros vs 281 del anterior
+Funcionarios a analizar 279 de 281 (se sacan duplicados)
+NUEVO data/funcionarios-2019-08-30.csv: nombre: MARIANO ARAUJO cargo: DIRECCIÓN GENERAL DE ADMINISTRACIÓN HOSPITALARIA Y RECUPERO DE GASTOS ministerio MINISTRO DE SALUD
+MUERTO data/funcionarios-2019-08-30.csv: nombre: LEONARDO LUÍS MONGI cargo: DIRECCIÓN GENERAL DE ENFERMEDADES CRÓNICAS NO TRANSMISIBLES ministerio MINISTRO DE SALUD
+***********
+FIN ARCHIVO funcionarios-2019-08-30.csv: nuevos: 1 repetidos: 278 cambiaron: 0 muertos: 1
+
