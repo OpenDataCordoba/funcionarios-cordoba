@@ -791,3 +791,13 @@ Dejó el cargo data/funcionarios-2019-08-22.csv: Nombre: MARCELO BRISIGHELLI (DN
 ***********
 FIN ARCHIVO funcionarios-2019-08-22.csv: nuevos: 2 repetidos: 302 cambiaron: 1 Dejaron el cargo: 1
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-08-30.csv
+*********** 306 registros
+***********
+INICIO COMPARACION 306 registros vs 305 del anterior
+Funcionarios a analizar 306 de 306 (se sacan duplicados)
+NUEVO data/funcionarios-2019-08-30.csv: Nombre: SIN FUNCIONARIO A CARGO (DNI (AR) 111111111111) Cargo: SUBSECRETARÍA DE HACIENDA Y PRESUPUESTO Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-08-30.csv: nuevos: 1 repetidos: 305 cambiaron: 0 Dejaron el cargo: 0
+
