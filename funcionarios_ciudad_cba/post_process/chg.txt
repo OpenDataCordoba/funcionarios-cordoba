@@ -801,3 +801,16 @@ NUEVO data/funcionarios-2019-08-30.csv: Nombre: SIN FUNCIONARIO A CARGO (DNI (AR
 ***********
 FIN ARCHIVO funcionarios-2019-08-30.csv: nuevos: 1 repetidos: 305 cambiaron: 0 Dejaron el cargo: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-09-07.csv
+*********** 302 registros
+***********
+INICIO COMPARACION 302 registros vs 306 del anterior
+Funcionarios a analizar 302 de 302 (se sacan duplicados)
+Dejó el cargo data/funcionarios-2019-09-07.csv: Nombre: MARIA PEISINO (DNI (AR) 26482262) Cargo: DIRECCIÓN DE EPIDEMIOLOGÍA Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-09-07.csv: Nombre: LUCIANA DIAZ (DNI (AR) 27172473) Cargo: SUBDIRECCIÓN DE TENENCIA RESPONSABLE DE MASCOTAS Y ZOONOSIS Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-09-07.csv: Nombre: MARIA PAULA ZUNINO (DNI (AR) 25203382) Cargo: SUBDIRECCIÓN DE ADMINISTRACIÓN Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-09-07.csv: Nombre: MAXIMILIANO TITTARELLI (DNI (AR) 24598439) Cargo: DIRECCIÓN DE HOSPITAL MUNICIPAL VILLA EL LIBERTADOR "PRÍNCIPE DE ASTURIAS" Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-09-07.csv: nuevos: 0 repetidos: 302 cambiaron: 0 Dejaron el cargo: 4
+
