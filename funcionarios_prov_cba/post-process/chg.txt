@@ -1314,3 +1314,13 @@ Funcionarios a analizar 279 de 281 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-09-07.csv: nuevos: 0 repetidos: 279 cambiaron: 0 muertos: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-09-14.csv
+*********** 280 registros
+***********
+INICIO COMPARACION 280 registros vs 281 del anterior
+Funcionarios a analizar 278 de 280 (se sacan duplicados)
+MUERTO data/funcionarios-2019-09-14.csv: nombre: CARLOS PEDETTA cargo: DIRECCIÓN GENERAL DE PROGRAMAS ESPECIALES ministerio MINISTRO DE EDUCACIÓN
+***********
+FIN ARCHIVO funcionarios-2019-09-14.csv: nuevos: 0 repetidos: 278 cambiaron: 0 muertos: 1
+
