@@ -1324,3 +1324,12 @@ MUERTO data/funcionarios-2019-09-14.csv: nombre: CARLOS PEDETTA cargo: DIRECCIÓ
 ***********
 FIN ARCHIVO funcionarios-2019-09-14.csv: nuevos: 0 repetidos: 278 cambiaron: 0 muertos: 1
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-09-22.csv
+*********** 280 registros
+***********
+INICIO COMPARACION 280 registros vs 280 del anterior
+Funcionarios a analizar 278 de 280 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-09-22.csv: nuevos: 0 repetidos: 278 cambiaron: 0 muertos: 0
+
