@@ -1,0 +1,854 @@
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-07.csv
+*********** 309 registros
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-08.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+CAMBIO data/funcionarios-2019-01-08.csv:
+ Nuevo Nombre: EMILIO COMMISSO (DNI (AR) 12612354) Cargo: DIRECCIÓN DE DEPORTE Secretaría SIN DEFINIR
+ Anterior Nombre: EMILIO COMMISSO (DNI (AR) 12612354) Cargo: DIRECCIÓN DE DEPORTES Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-01-08.csv:
+ Nuevo Nombre: DANIEL GRACO (DNI (AR) 12559955) Cargo: SUBSECRETARÍA DE DEPORTE Y RECREACIÓN Secretaría SIN DEFINIR
+ Anterior Nombre: DANIEL GRACO (DNI (AR) 12559955) Cargo: SUBSECRETARÍA DE DEPORTES Y RECREACIÓN Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-01-08.csv: nuevos: 0 repetidos: 307 cambiaron: 2 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-09.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-09.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-11.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-11.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-13.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-13.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-14.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-14.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-15.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-15.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-16.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-16.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-18.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-18.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-19.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-19.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-21.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-21.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-22.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-22.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-24.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-24.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-27.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-27.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-28.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-28.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-29.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-29.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-30.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-30.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-01-31.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-01-31.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-01.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 309 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+CAMBIO data/funcionarios-2019-02-01.csv:
+ Nuevo Nombre: ALFREDO SAPP (DNI (AR) 16229386) Cargo: ENTE DE SERVICIOS Y OBRAS PÚBLICAS -ESYOP- (PRESIDENTE) Secretaría SIN DEFINIR
+ Anterior Nombre: ALFREDO SAPP (DNI (AR) 16229386) Cargo: SUBASESORÍA LETRADA Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-02-01.csv: Nombre: ENTE DE SERVICIOS Y OBRAS PÚBLICAS -ESYOP- (DNI (AR) ---) Cargo: ENTE DE SERVICIOS Y OBRAS PÚBLICAS -ESYOP- (PRESIDENTE) Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-02-01.csv: nuevos: 0 repetidos: 307 cambiaron: 1 Dejaron el cargo: 1
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-02.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-02.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-04.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 308 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+Dejó el cargo data/funcionarios-2019-02-04.csv: Nombre: DIEGO ALIAGA (DNI (AR) 29835898) Cargo: DIRECCIÓN DE INFRAESTRUCTURA Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-02-04.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 1
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-05.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-05.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-07.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-07.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-08.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-08.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-10.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-10.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-12.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-12.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-13.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-13.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-14.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 307 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+NUEVO data/funcionarios-2019-02-14.csv: Nombre: MARIA BLANCO (DNI (AR) 36341414) Cargo: SUBDIRECCIÓN DE AUDIENCIAS Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-02-14.csv: nuevos: 1 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-15.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-15.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-18.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-18.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-20.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 308 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+CAMBIO data/funcionarios-2019-02-20.csv:
+ Nuevo Nombre: MARTÍN CORTES OLMEDO (DNI (AR) 22223003) Cargo: SUBASESORÍA LETRADA Secretaría SIN DEFINIR
+ Anterior Nombre: MARTÍN CORTES OLMEDO (DNI (AR) 22223003) Cargo: DIRECCIÓN DE ASUNTOS JUDICIALES Secretaría SIN DEFINIR
+NUEVO data/funcionarios-2019-02-20.csv: Nombre: JORGE SPADONI (DNI (AR) 16947347) Cargo: DIRECCIÓN DE ASUNTOS JUDICIALES Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-02-20.csv: nuevos: 1 repetidos: 307 cambiaron: 1 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-21.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-21.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-22.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-22.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-23.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-23.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-25.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-25.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-26.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-26.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-27.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-27.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-02-28.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-02-28.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-01.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-03-01.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-13.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-03-13.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-15.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-03-15.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-18.csv
+*********** 309 registros
+***********
+INICIO COMPARACION 309 registros vs 309 del anterior
+Funcionarios a analizar 309 de 309 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-03-18.csv: nuevos: 0 repetidos: 309 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-20.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 309 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+Dejó el cargo data/funcionarios-2019-03-20.csv: Nombre: SANTIAGO VOTTERO (DNI (AR) 32773529) Cargo: DIRECCIÓN GENERAL DE SELECCIÓN Y CONCURSOS Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-03-20.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 1
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-21.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-03-21.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-22.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-03-22.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-23.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-03-23.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-24.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-03-24.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-25.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-03-25.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-27.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+CAMBIO data/funcionarios-2019-03-27.csv:
+ Nuevo Nombre: PABLO MONTELEONE (DNI (AR) 21397829) Cargo: DIRECCIÓN DE MEDICINA PREVENTIVA Secretaría SIN DEFINIR
+ Anterior Nombre: PABLO MONTELEONE (DNI (AR) 21397829) Cargo: SUBDIRECCIÓN DE MEDICINA PREVENTIVA Secretaría SIN DEFINIR
+NUEVO data/funcionarios-2019-03-27.csv: Nombre: GISELA BOLDRINI (DNI (AR) 25457123) Cargo: SUBDIRECCIÓN DE MEDICINA PREVENTIVA Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-03-27.csv:
+ Nuevo Nombre: LUCAS SAMAME (DNI (AR) 26314348) Cargo: DIRECCIÓN DE ESYOP -  "B" Secretaría SIN DEFINIR
+ Anterior Nombre: LUCAS SAMAME (DNI (AR) 26314348) Cargo: DIRECCIÓN DE REGISTRO CIVIL Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-03-27.csv:
+ Nuevo Nombre: CÉSAR FERREYRA (DNI (AR) 12564694) Cargo: ASESOR DE GABINETE Secretaría SIN DEFINIR
+ Anterior Nombre: CÉSAR FERREYRA (DNI (AR) 12564694) Cargo: DIRECCIÓN DE ESYOP -  "B" Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-03-27.csv: Nombre: EDUARDO RODI (DNI (AR) 10542872) Cargo: DIRECCIÓN DE MEDICINA PREVENTIVA Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-03-27.csv: nuevos: 1 repetidos: 304 cambiaron: 3 Dejaron el cargo: 1
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-28.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-03-28.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-29.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-03-29.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-03-30.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-03-30.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-01.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-04-01.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-03.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+NUEVO data/funcionarios-2019-04-03.csv: Nombre: FACUNDO SAPORITI (DNI (AR) 31769725) Cargo: DIRECCIÓN DE COORDINACIÓN Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-04-03.csv: Nombre: JOSÉ BARCELONA (DNI (AR) 33117196) Cargo: SUBDIRECCIÓN DE CENTRO DE PARTICIPACIÓN COMUNAL Nº 6 - VILLA EL LIBERTADOR "B" Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-04-03.csv: nuevos: 1 repetidos: 307 cambiaron: 0 Dejaron el cargo: 1
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-05.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-04-05.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-08.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-04-08.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-09.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-04-09.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-11.csv
+*********** 308 registros
+***********
+INICIO COMPARACION 308 registros vs 308 del anterior
+Funcionarios a analizar 308 de 308 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-04-11.csv: nuevos: 0 repetidos: 308 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-13.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 308 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+Dejó el cargo data/funcionarios-2019-04-13.csv: Nombre: GONZALO SALVETTI (DNI (AR) 30042593) Cargo: DIRECCIÓN DE GESTIÓN Y COORDINACIÓN LABORAL Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-04-13.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 1
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-20.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-04-20.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-22.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-04-22.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-24.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-04-24.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-25.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-04-25.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-26.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-04-26.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-04-29.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-04-29.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-05-02.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-05-02.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-05-09.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-05-09.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-05-16.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-05-16.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-05-19.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-05-19.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-05-22.csv
+*********** 307 registros
+***********
+INICIO COMPARACION 307 registros vs 307 del anterior
+Funcionarios a analizar 307 de 307 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-05-22.csv: nuevos: 0 repetidos: 307 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-05-30.csv
+*********** 306 registros
+***********
+INICIO COMPARACION 306 registros vs 307 del anterior
+Funcionarios a analizar 306 de 306 (se sacan duplicados)
+NUEVO data/funcionarios-2019-05-30.csv: Nombre: GABRIEL GRACO (DNI (AR) 13964354) Cargo: SUBDIRECCIÓN DE ADULTOS MAYORES Secretaría SIN DEFINIR
+NUEVO data/funcionarios-2019-05-30.csv: Nombre: MARIANA URAVICH (DNI (AR) 21162254) Cargo: SUBDIRECCIÓN DE LOGÍSTICA Y SEGURIDAD Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-05-30.csv: Nombre: PATRICIA MACHADO (DNI (AR) 13103291) Cargo: SUBDIRECCIÓN DE USO DEL SUELO Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-05-30.csv: Nombre: JULIO MARTINEZ (DNI (AR) 8247216) Cargo: SUBDIRECCIÓN DE CENTRO DE PARTICIPACIÓN COMUNAL Nº 5 - RUTA 20 Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-05-30.csv: Nombre: PATRICIA PUENTE (DNI (AR) 13983575) Cargo: DIRECCIÓN DE FISCALIZACIÓN Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-05-30.csv: nuevos: 2 repetidos: 304 cambiaron: 0 Dejaron el cargo: 3
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-06-21.csv
+*********** 304 registros
+***********
+INICIO COMPARACION 304 registros vs 306 del anterior
+Funcionarios a analizar 304 de 304 (se sacan duplicados)
+NUEVO data/funcionarios-2019-06-21.csv: Nombre: NICOLÁS ALVAREZ (DNI (AR) 36483833) Cargo: SUBDIRECCIÓN DE SISTEMAS DE INFORMACIÓN Y ACCESO A LA INFORMACIÓN Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-06-21.csv:
+ Nuevo Nombre: MARILINA BRUSSINO (DNI (AR) 31223050) Cargo: SUBDIRECCIÓN DE PRENSA Y COMUNICACIÓN AUDIOVISUAL Secretaría SIN DEFINIR
+ Anterior Nombre: MARILINA BRUSSINO (DNI (AR) 31223050) Cargo: SUBDIRECCIÓN DE PRENSA Secretaría SIN DEFINIR
+NUEVO data/funcionarios-2019-06-21.csv: Nombre: ANDREA MARTINEZ (DNI (AR) 28065078) Cargo: SUBDIRECCIÓN DE INNOVACIÓN Y CREATIVIDAD Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-06-21.csv:
+ Nuevo Nombre: SEBASTIÁN MAGLIANO (DNI (AR) 27941449) Cargo: DIRECCIÓN GENERAL DE COMUNICACIÓN Y MEDIOS Secretaría SIN DEFINIR
+ Anterior Nombre: SEBASTIÁN MAGLIANO (DNI (AR) 27941449) Cargo: DIRECCIÓN DE PRENSA Y DIFUSIÓN Secretaría SIN DEFINIR
+NUEVO data/funcionarios-2019-06-21.csv: Nombre: JUAN SACCHETTO (DNI (AR) 27795158) Cargo: ASESOR DE GABINETE Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-06-21.csv:
+ Nuevo Nombre: IGNACIO DE LEÓN (DNI (AR) 33101535) Cargo: DIRECCIÓN DE MODERNIZACIÓN Secretaría SIN DEFINIR
+ Anterior Nombre: IGNACIO DE LEÓN (DNI (AR) 33101535) Cargo: DIRECCIÓN GENERAL DE MODERNIZACIÓN Y TECNOLOGÍA Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-06-21.csv:
+ Nuevo Nombre: GUSTAVO FUNES (DNI (AR) 22371124) Cargo: DIRECCIÓN DE TECNOLOGÍA, SISTEMAS TRIBUTARIO Y ADMINISTRACIÓN FINANCIERA Secretaría SIN DEFINIR
+ Anterior Nombre: GUSTAVO FUNES (DNI (AR) 22371124) Cargo: SUBDIRECCIÓN DE INFORMÁTICA, SISTEMA TRIBUTARIO Y ADMINISTRACIÓN FINANCIERA Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-06-21.csv:
+ Nuevo Nombre: FACUNDO BARRIONUEVO (DNI (AR) 31126913) Cargo: DIRECCIÓN GENERAL DE GOBIERNO ABIERTO, ACCESO A LA INFORMACIÓN PÚBLICA, Y ESTADÍSTICA Y CENSOS Secretaría SIN DEFINIR
+ Anterior Nombre: FACUNDO BARRIONUEVO (DNI (AR) 31126913) Cargo: DIRECCIÓN DE GOBIERNO ABIERTO, ACCESO A LA INFORMACIÓN PÚBLICA Y ESTADÍSTICAS Y CENSOS Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-06-21.csv: Nombre: ANDRÉS VÁZQUEZ (DNI (AR) 26453653) Cargo: DIRECCIÓN DE SISTEMAS DE INFORMACIÓN E INNOVACIÓN Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-06-21.csv: Nombre: ALEJANDRO ÁLVAREZ NOBELL (DNI (AR) 29203276) Cargo: DIRECCIÓN GENERAL DE COMUNICACIÓN Y MEDIOS Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-06-21.csv: Nombre: RUBÉN DONOZO (DNI (AR) 23212833) Cargo: SUBDIRECCIÓN DE CONTROL DE RECURSOS HUMANOS Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-06-21.csv: Nombre: MARTÍN FLORES (DNI (AR) 26089758) Cargo: DIRECCIÓN DE GESTIÓN Y COORDINACIÓN LABORAL "A" Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-06-21.csv: Nombre: LUCAS VALDES (DNI (AR) 32623296) Cargo: SUBDIRECCIÓN DE MEDIOS DIGITALES Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-06-21.csv: nuevos: 3 repetidos: 296 cambiaron: 5 Dejaron el cargo: 5
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-07-19.csv
+*********** 304 registros
+***********
+INICIO COMPARACION 304 registros vs 304 del anterior
+Funcionarios a analizar 304 de 304 (se sacan duplicados)
+CAMBIO data/funcionarios-2019-07-19.csv:
+ Nuevo Nombre: NICOLÁS ALVAREZ (DNI (AR) 36483833) Cargo: SUBDIRECCIÓN DE SISTEMAS DE INFORMACIÓN Y ACCESO A LA INFORMACIÓN PÚBLICA Secretaría SIN DEFINIR
+ Anterior Nombre: NICOLÁS ALVAREZ (DNI (AR) 36483833) Cargo: SUBDIRECCIÓN DE SISTEMAS DE INFORMACIÓN Y ACCESO A LA INFORMACIÓN Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-07-19.csv: nuevos: 0 repetidos: 303 cambiaron: 1 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-07-29.csv
+*********** 305 registros
+***********
+INICIO COMPARACION 305 registros vs 304 del anterior
+Funcionarios a analizar 305 de 305 (se sacan duplicados)
+NUEVO data/funcionarios-2019-07-29.csv: Nombre: MIGUEL CAPDEVILA (DNI (AR) 22162833) Cargo: SUBDIRECCIÓN DE CENTRO DE PARTICIPACIÓN COMUNAL Nº 5 - RUTA 20 Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-07-29.csv: nuevos: 1 repetidos: 304 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-08-02.csv
+*********** 304 registros
+***********
+INICIO COMPARACION 304 registros vs 305 del anterior
+Funcionarios a analizar 304 de 304 (se sacan duplicados)
+Dejó el cargo data/funcionarios-2019-08-02.csv: Nombre: CECILIA BARLETTA (DNI (AR) 25203726) Cargo: DIRECCIÓN DE FORTALECIMIENTO TERRITORIAL Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-08-02.csv: nuevos: 0 repetidos: 304 cambiaron: 0 Dejaron el cargo: 1
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-08-06.csv
+*********** 304 registros
+***********
+INICIO COMPARACION 304 registros vs 304 del anterior
+Funcionarios a analizar 304 de 304 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-08-06.csv: nuevos: 0 repetidos: 304 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-08-10.csv
+*********** 304 registros
+***********
+INICIO COMPARACION 304 registros vs 304 del anterior
+Funcionarios a analizar 304 de 304 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-08-10.csv: nuevos: 0 repetidos: 304 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-08-14.csv
+*********** 304 registros
+***********
+INICIO COMPARACION 304 registros vs 304 del anterior
+Funcionarios a analizar 304 de 304 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-08-14.csv: nuevos: 0 repetidos: 304 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-08-15.csv
+*********** 304 registros
+***********
+INICIO COMPARACION 304 registros vs 304 del anterior
+Funcionarios a analizar 304 de 304 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-08-15.csv: nuevos: 0 repetidos: 304 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-08-18.csv
+*********** 304 registros
+***********
+INICIO COMPARACION 304 registros vs 304 del anterior
+Funcionarios a analizar 304 de 304 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-08-18.csv: nuevos: 0 repetidos: 304 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-08-22.csv
+*********** 305 registros
+***********
+INICIO COMPARACION 305 registros vs 304 del anterior
+Funcionarios a analizar 305 de 305 (se sacan duplicados)
+NUEVO data/funcionarios-2019-08-22.csv: Nombre: NOELIA ROLAND (DNI (AR) 35090958) Cargo: SUBDIRECCIÓN DE ASUNTOS LEGISLATIVOS Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-08-22.csv:
+ Nuevo Nombre: MARINA BEAS (DNI (AR) 26480342) Cargo: DIRECCIÓN DE EMERGENCIA SOCIAL Secretaría SIN DEFINIR
+ Anterior Nombre: MARINA BEAS (DNI (AR) 26480342) Cargo: SUBDIRECCIÓN DE ASISTENCIA SOCIAL Secretaría SIN DEFINIR
+NUEVO data/funcionarios-2019-08-22.csv: Nombre: CECILIA BARLETTA (DNI (AR) 25203726) Cargo: SUBDIRECCIÓN DE ASISTENCIA SOCIAL Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-08-22.csv: Nombre: MARCELO BRISIGHELLI (DNI (AR) 18608108) Cargo: SUBDIRECCIÓN DE ALUMBRADO PÚBLICO - ZONA NORTE Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-08-22.csv: nuevos: 2 repetidos: 302 cambiaron: 1 Dejaron el cargo: 1
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-08-30.csv
+*********** 306 registros
+***********
+INICIO COMPARACION 306 registros vs 305 del anterior
+Funcionarios a analizar 306 de 306 (se sacan duplicados)
+NUEVO data/funcionarios-2019-08-30.csv: Nombre: SIN FUNCIONARIO A CARGO (DNI (AR) 111111111111) Cargo: SUBSECRETARÍA DE HACIENDA Y PRESUPUESTO Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-08-30.csv: nuevos: 1 repetidos: 305 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-09-07.csv
+*********** 302 registros
+***********
+INICIO COMPARACION 302 registros vs 306 del anterior
+Funcionarios a analizar 302 de 302 (se sacan duplicados)
+Dejó el cargo data/funcionarios-2019-09-07.csv: Nombre: MARIA PEISINO (DNI (AR) 26482262) Cargo: DIRECCIÓN DE EPIDEMIOLOGÍA Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-09-07.csv: Nombre: LUCIANA DIAZ (DNI (AR) 27172473) Cargo: SUBDIRECCIÓN DE TENENCIA RESPONSABLE DE MASCOTAS Y ZOONOSIS Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-09-07.csv: Nombre: MARIA PAULA ZUNINO (DNI (AR) 25203382) Cargo: SUBDIRECCIÓN DE ADMINISTRACIÓN Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-09-07.csv: Nombre: MAXIMILIANO TITTARELLI (DNI (AR) 24598439) Cargo: DIRECCIÓN DE HOSPITAL MUNICIPAL VILLA EL LIBERTADOR "PRÍNCIPE DE ASTURIAS" Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-09-07.csv: nuevos: 0 repetidos: 302 cambiaron: 0 Dejaron el cargo: 4
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-09-14.csv
+*********** 302 registros
+***********
+INICIO COMPARACION 302 registros vs 302 del anterior
+Funcionarios a analizar 302 de 302 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-09-14.csv: nuevos: 0 repetidos: 302 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-09-22.csv
+*********** 302 registros
+***********
+INICIO COMPARACION 302 registros vs 302 del anterior
+Funcionarios a analizar 302 de 302 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-09-22.csv: nuevos: 0 repetidos: 302 cambiaron: 0 Dejaron el cargo: 0
+
+***********
+INICIA ARCHIVO data/funcionarios-2019-10-06.csv
+*********** 297 registros
+***********
+INICIO COMPARACION 297 registros vs 302 del anterior
+Funcionarios a analizar 297 de 297 (se sacan duplicados)
+CAMBIO data/funcionarios-2019-10-06.csv:
+ Nuevo Nombre: NADIA LAURA GOMEZ MAHUT (DNI (AR) 31558793) Cargo: SUBSECRETARÍA DE GOBIERNO Secretaría SIN DEFINIR
+ Anterior Nombre: NADIA GOMEZ (DNI (AR) 31558793) Cargo: SUBDIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-10-06.csv:
+ Nuevo Nombre: ROBERTO YALOVETZKY (DNI (AR) 22034509) Cargo: SUBSECRETARÍA DE DESARROLLO SOCIAL Secretaría SIN DEFINIR
+ Anterior Nombre: ROBERTO YALOVETZKY (DNI (AR) 22034509) Cargo: SUBSECRETARÍA DE GOBIERNO Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-10-06.csv: Nombre: BENJAMÍN SIMES (DNI (AR) 26482742) Cargo: DIRECCIÓN DE INFORMÁTICA Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-10-06.csv: Nombre: ADRIÁN CASATI (DNI (AR) 17383275) Cargo: SUBSECRETARÍA DE DESARROLLO SOCIAL Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-10-06.csv: Nombre: AUGUSTO ALONSO (DNI (AR) 27920223) Cargo: DIRECCIÓN DE DEPORTE INSTITUCIONAL FEDERADO Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-10-06.csv: Nombre: PABLO RODRÍGUEZ (DNI (AR) 32038863) Cargo: DIRECCIÓN DE PARQUES EDUCATIVOS Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-10-06.csv: Nombre: MARÍA DANIELA ZANI (DNI (AR) 25229826) Cargo: DIRECCIÓN DE FINANCIAMIENTO Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-10-06.csv: nuevos: 0 repetidos: 295 cambiaron: 2 Dejaron el cargo: 5
+
