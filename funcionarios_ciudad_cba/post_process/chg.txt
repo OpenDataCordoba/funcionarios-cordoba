@@ -832,3 +832,23 @@ Funcionarios a analizar 302 de 302 (se sacan duplicados)
 ***********
 FIN ARCHIVO funcionarios-2019-09-22.csv: nuevos: 0 repetidos: 302 cambiaron: 0 Dejaron el cargo: 0
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-10-06.csv
+*********** 297 registros
+***********
+INICIO COMPARACION 297 registros vs 302 del anterior
+Funcionarios a analizar 297 de 297 (se sacan duplicados)
+CAMBIO data/funcionarios-2019-10-06.csv: 
+ Nuevo Nombre: NADIA LAURA GOMEZ MAHUT (DNI (AR) 31558793) Cargo: SUBSECRETARÍA DE GOBIERNO Secretaría SIN DEFINIR 
+ Anterior Nombre: NADIA GOMEZ (DNI (AR) 31558793) Cargo: SUBDIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA Secretaría SIN DEFINIR
+CAMBIO data/funcionarios-2019-10-06.csv: 
+ Nuevo Nombre: ROBERTO YALOVETZKY (DNI (AR) 22034509) Cargo: SUBSECRETARÍA DE DESARROLLO SOCIAL Secretaría SIN DEFINIR 
+ Anterior Nombre: ROBERTO YALOVETZKY (DNI (AR) 22034509) Cargo: SUBSECRETARÍA DE GOBIERNO Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-10-06.csv: Nombre: BENJAMÍN SIMES (DNI (AR) 26482742) Cargo: DIRECCIÓN DE INFORMÁTICA Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-10-06.csv: Nombre: ADRIÁN CASATI (DNI (AR) 17383275) Cargo: SUBSECRETARÍA DE DESARROLLO SOCIAL Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-10-06.csv: Nombre: AUGUSTO ALONSO (DNI (AR) 27920223) Cargo: DIRECCIÓN DE DEPORTE INSTITUCIONAL FEDERADO Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-10-06.csv: Nombre: PABLO RODRÍGUEZ (DNI (AR) 32038863) Cargo: DIRECCIÓN DE PARQUES EDUCATIVOS Secretaría SIN DEFINIR
+Dejó el cargo data/funcionarios-2019-10-06.csv: Nombre: MARÍA DANIELA ZANI (DNI (AR) 25229826) Cargo: DIRECCIÓN DE FINANCIAMIENTO Secretaría SIN DEFINIR
+***********
+FIN ARCHIVO funcionarios-2019-10-06.csv: nuevos: 0 repetidos: 295 cambiaron: 2 Dejaron el cargo: 5
+
