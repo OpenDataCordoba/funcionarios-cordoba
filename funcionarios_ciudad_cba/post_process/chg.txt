@@ -852,3 +852,12 @@ Dejó el cargo data/funcionarios-2019-10-06.csv: Nombre: MARÍA DANIELA ZANI (DN
 ***********
 FIN ARCHIVO funcionarios-2019-10-06.csv: nuevos: 0 repetidos: 295 cambiaron: 2 Dejaron el cargo: 5
 
+***********
+INICIA ARCHIVO data/funcionarios-2019-10-18.csv
+*********** 297 registros
+***********
+INICIO COMPARACION 297 registros vs 297 del anterior
+Funcionarios a analizar 297 de 297 (se sacan duplicados)
+***********
+FIN ARCHIVO funcionarios-2019-10-18.csv: nuevos: 0 repetidos: 297 cambiaron: 0 Dejaron el cargo: 0
+
