@@ -1,13 +1,13 @@
-2019-10-18 16:46:28 [scrapy.utils.log] INFO: Scrapy 1.5.0 started (bot: funcionarios_prov_cba)
-2019-10-18 16:46:28 [scrapy.utils.log] INFO: Versions: lxml 4.2.1.0, libxml2 2.9.8, cssselect 1.0.3, parsel 1.4.0, w3lib 1.19.0, Twisted 17.9.0, Python 3.6.8 (default, Oct  7 2019, 12:59:55) - [GCC 8.3.0], pyOpenSSL 17.5.0 (OpenSSL 1.1.0h  27 Mar 2018), cryptography 2.3, Platform Linux-4.15.0-58-generic-x86_64-with-Ubuntu-18.04-bionic
-2019-10-18 16:46:28 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'funcionarios_prov_cba', 'DOWNLOAD_DELAY': 2.5, 'FEED_FORMAT': 'csv', 'FEED_URI': 'post-process/data/funcionarios-2019-10-18.csv', 'LOG_FILE': 'all.log', 'LOG_LEVEL': 'INFO', 'NEWSPIDER_MODULE': 'funcionarios_prov_cba.spiders', 'ROBOTSTXT_OBEY': True, 'SPIDER_MODULES': ['funcionarios_prov_cba.spiders']}
-2019-10-18 16:46:28 [scrapy.middleware] INFO: Enabled extensions:
+2019-10-18 16:49:12 [scrapy.utils.log] INFO: Scrapy 1.5.0 started (bot: funcionarios_prov_cba)
+2019-10-18 16:49:12 [scrapy.utils.log] INFO: Versions: lxml 4.2.1.0, libxml2 2.9.8, cssselect 1.0.3, parsel 1.4.0, w3lib 1.19.0, Twisted 17.9.0, Python 3.6.8 (default, Oct  7 2019, 12:59:55) - [GCC 8.3.0], pyOpenSSL 17.5.0 (OpenSSL 1.1.0h  27 Mar 2018), cryptography 2.3, Platform Linux-4.15.0-58-generic-x86_64-with-Ubuntu-18.04-bionic
+2019-10-18 16:49:12 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'funcionarios_prov_cba', 'DOWNLOAD_DELAY': 2.5, 'FEED_FORMAT': 'csv', 'FEED_URI': 'post-process/data/funcionarios-2019-10-18.csv', 'LOG_FILE': 'all.log', 'LOG_LEVEL': 'INFO', 'NEWSPIDER_MODULE': 'funcionarios_prov_cba.spiders', 'ROBOTSTXT_OBEY': True, 'SPIDER_MODULES': ['funcionarios_prov_cba.spiders']}
+2019-10-18 16:49:12 [scrapy.middleware] INFO: Enabled extensions:
 ['scrapy.extensions.corestats.CoreStats',
  'scrapy.extensions.telnet.TelnetConsole',
  'scrapy.extensions.memusage.MemoryUsage',
  'scrapy.extensions.feedexport.FeedExporter',
  'scrapy.extensions.logstats.LogStats']
-2019-10-18 16:46:28 [scrapy.middleware] INFO: Enabled downloader middlewares:
+2019-10-18 16:49:12 [scrapy.middleware] INFO: Enabled downloader middlewares:
 ['scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
  'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
  'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
@@ -20,36 +20,74 @@
  'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
  'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
  'scrapy.downloadermiddlewares.stats.DownloaderStats']
-2019-10-18 16:46:28 [scrapy.middleware] INFO: Enabled spider middlewares:
+2019-10-18 16:49:12 [scrapy.middleware] INFO: Enabled spider middlewares:
 ['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
  'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
  'scrapy.spidermiddlewares.referer.RefererMiddleware',
  'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
  'scrapy.spidermiddlewares.depth.DepthMiddleware']
-2019-10-18 16:46:28 [scrapy.middleware] INFO: Enabled item pipelines:
+2019-10-18 16:49:12 [scrapy.middleware] INFO: Enabled item pipelines:
 ['scrapy.pipelines.images.ImagesPipeline']
-2019-10-18 16:46:28 [scrapy.core.engine] INFO: Spider opened
-2019-10-18 16:46:28 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
-2019-10-18 16:46:32 [funcionarios] INFO:  *** BUSCANDO MINISTERIOS **** 
-2019-10-18 16:46:36 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Gobierno**** 
-2019-10-18 16:46:40 [funcionarios] INFO:  *** INICIANDO MINISTERIO Consejo Provincial de las Mujeres**** 
-2019-10-18 16:46:43 [funcionarios] INFO:  *** INICIANDO MINISTERIO Universidad Provincial de Córdoba**** 
-2019-10-18 16:46:45 [funcionarios] INFO:  *** INICIANDO MINISTERIO Agencia Córdoba Inversiones y Financiamiento SEM**** 
-2019-10-18 16:46:50 [funcionarios] INFO:  *** INICIANDO MINISTERIO Agencia ProCórdoba**** 
-2019-10-18 16:46:51 [funcionarios] INFO:  *** INICIANDO MINISTERIO Agencia Córdoba Innovar y Emprender**** 
-2019-10-18 16:46:55 [funcionarios] INFO:  *** INICIANDO MINISTERIO Agencia Córdoba Joven**** 
-2019-10-18 16:46:57 [funcionarios] INFO:  *** INICIANDO MINISTERIO Agencia Córdoba Deportes**** 
-2019-10-18 16:47:01 [funcionarios] INFO:  *** INICIANDO MINISTERIO Agencia Córdoba Cultura**** 
-2019-10-18 16:47:04 [funcionarios] INFO:  *** INICIANDO MINISTERIO Agencia Córdoba Turismo**** 
-2019-10-18 16:47:05 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaría de Comunicaciones y Conectividad**** 
-2019-10-18 16:47:08 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaría General de la Gobernación**** 
-2019-10-18 16:47:11 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaría de Planeamiento y Modernización**** 
-2019-10-18 16:47:12 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaría de Equidad y Promoción de Empleo**** 
-2019-10-18 16:47:17 [funcionarios] INFO:  *** INICIANDO MINISTERIO Fiscalía de Estado**** 
-2019-10-18 16:47:19 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Servicios Públicos**** 
-2019-10-18 16:47:21 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Ciencia y Tecnología**** 
-2019-10-18 16:47:28 [scrapy.extensions.logstats] INFO: Crawled 21 pages (at 21 pages/min), scraped 105 items (at 105 items/min)
-2019-10-18 16:48:28 [scrapy.extensions.logstats] INFO: Crawled 40 pages (at 19 pages/min), scraped 124 items (at 19 items/min)
-2019-10-18 16:48:47 [scrapy.crawler] INFO: Received SIG_SETMASK, shutting down gracefully. Send again to force 
-2019-10-18 16:48:47 [scrapy.core.engine] INFO: Closing spider (shutdown)
-2019-10-18 16:48:47 [scrapy.crawler] INFO: Received SIG_SETMASK twice, forcing unclean shutdown
+2019-10-18 16:49:12 [scrapy.core.engine] INFO: Spider opened
+2019-10-18 16:49:12 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2019-10-18 16:49:15 [funcionarios] INFO:  *** BUSCANDO MINISTERIOS **** 
+2019-10-18 16:49:18 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Gobierno**** 
+2019-10-18 16:49:22 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Ciencia y Tecnología**** 
+2019-10-18 16:49:26 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Trabajo**** 
+2019-10-18 16:49:29 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Justicia y Derechos Humanos**** 
+2019-10-18 16:49:32 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Salud**** 
+2019-10-18 16:49:36 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Obras Públicas y Financiamiento**** 
+2019-10-18 16:49:39 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Industria, Comercio y Minería**** 
+2019-10-18 16:49:41 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Educación**** 
+2019-10-18 16:49:44 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Finanzas**** 
+2019-10-18 16:49:47 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Agricultura y Ganadería**** 
+2019-10-18 16:49:48 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Desarrollo Social**** 
+2019-10-18 16:49:51 [funcionarios] INFO:  *** INICIANDO MINISTERIO Consejo Provincial de las Mujeres**** 
+2019-10-18 16:49:54 [funcionarios] INFO:  *** INICIANDO MINISTERIO Universidad Provincial de Córdoba**** 
+2019-10-18 16:49:58 [funcionarios] INFO:  *** INICIANDO MINISTERIO Agencia Córdoba Inversiones y Financiamiento SEM**** 
+2019-10-18 16:50:02 [funcionarios] INFO:  *** INICIANDO MINISTERIO Agencia ProCórdoba**** 
+2019-10-18 16:50:05 [funcionarios] INFO:  *** INICIANDO MINISTERIO Agencia Córdoba Innovar y Emprender**** 
+2019-10-18 16:50:09 [funcionarios] INFO:  *** INICIANDO MINISTERIO Agencia Córdoba Joven**** 
+2019-10-18 16:50:12 [scrapy.extensions.logstats] INFO: Crawled 20 pages (at 20 pages/min), scraped 132 items (at 132 items/min)
+2019-10-18 16:50:12 [funcionarios] INFO:  *** INICIANDO MINISTERIO Agencia Córdoba Deportes**** 
+2019-10-18 16:50:15 [funcionarios] INFO:  *** INICIANDO MINISTERIO Agencia Córdoba Cultura**** 
+2019-10-18 16:51:12 [scrapy.extensions.logstats] INFO: Crawled 39 pages (at 19 pages/min), scraped 169 items (at 37 items/min)
+2019-10-18 16:52:12 [scrapy.extensions.logstats] INFO: Crawled 58 pages (at 19 pages/min), scraped 188 items (at 19 items/min)
+2019-10-18 16:53:03 [funcionarios] INFO:  *** INICIANDO MINISTERIO Agencia Córdoba Turismo**** 
+2019-10-18 16:53:06 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaría de Comunicaciones y Conectividad**** 
+2019-10-18 16:53:09 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaría General de la Gobernación**** 
+2019-10-18 16:53:11 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaría de Planeamiento y Modernización**** 
+2019-10-18 16:53:12 [scrapy.extensions.logstats] INFO: Crawled 80 pages (at 22 pages/min), scraped 238 items (at 50 items/min)
+2019-10-18 16:53:15 [funcionarios] INFO:  *** INICIANDO MINISTERIO Secretaría de Equidad y Promoción de Empleo**** 
+2019-10-18 16:53:16 [funcionarios] INFO:  *** INICIANDO MINISTERIO Fiscalía de Estado**** 
+2019-10-18 16:53:19 [funcionarios] INFO:  *** INICIANDO MINISTERIO Ministerio de Servicios Públicos**** 
+2019-10-18 16:54:12 [scrapy.extensions.logstats] INFO: Crawled 99 pages (at 19 pages/min), scraped 287 items (at 49 items/min)
+2019-10-18 16:54:32 [scrapy.pipelines.files] WARNING: File (code: 404): Error downloading file from <GET http://www.cba.gov.ar/wp-content/4p96humuzp/2012/05/bermudez1.gif> referred in <None>
+2019-10-18 16:54:33 [scrapy.core.engine] INFO: Closing spider (finished)
+2019-10-18 16:54:33 [scrapy.extensions.feedexport] INFO: Stored csv feed (295 items) in: post-process/data/funcionarios-2019-10-18.csv
+2019-10-18 16:54:33 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 29565,
+ 'downloader/request_count': 107,
+ 'downloader/request_method_count/GET': 107,
+ 'downloader/response_bytes': 4558512,
+ 'downloader/response_count': 107,
+ 'downloader/response_status_count/200': 106,
+ 'downloader/response_status_count/404': 1,
+ 'file_count': 223,
+ 'file_status_count/downloaded': 78,
+ 'file_status_count/uptodate': 145,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 10, 18, 19, 54, 33, 20840),
+ 'item_scraped_count': 295,
+ 'log_count/INFO': 40,
+ 'log_count/WARNING': 1,
+ 'memusage/max': 92995584,
+ 'memusage/startup': 54046720,
+ 'request_depth_max': 1,
+ 'response_received_count': 107,
+ 'scheduler/dequeued': 27,
+ 'scheduler/dequeued/memory': 27,
+ 'scheduler/enqueued': 27,
+ 'scheduler/enqueued/memory': 27,
+ 'start_time': datetime.datetime(2019, 10, 18, 19, 49, 12, 206235)}
+2019-10-18 16:54:33 [scrapy.core.engine] INFO: Spider closed (finished)
