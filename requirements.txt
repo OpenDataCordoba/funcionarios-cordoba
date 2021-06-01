@@ -35,7 +35,7 @@ service-identity==17.0.0
 six==1.11.0
 Twisted==17.9.0
 typed-ast==1.1.1
-urllib3==1.24.2
+urllib3==1.26.5
 w3lib==1.19.0
 wrapt==1.10.11
 zope.interface==4.4.3
